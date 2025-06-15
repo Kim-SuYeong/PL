@@ -1,0 +1,356 @@
+﻿Rk,Player,Nation,Position,Squad,Age,Year of birth,Matches Played,Starts,Minutes,90s Played,Goals,Assists,Goals + Assists,Non-Penalty Goals,Penalty Kicks Made,Penalty Kicks Attempted,Yellow Cards,Red Cards,Goals/90,Assists/90,Goals + Assists/90,Non-Penalty Goals/90,Non-Penalty Goals + Assists/90,Matches
+1,Sahal Abdul Samad,inIND,MF,Mohun Bagan,27,1997,17,8,680,7.6,0,1,1,0,0,0,2,0,0,0.13,0.13,0,0.13,Matches
+2,Ayush Adhikari,inIND,MF,Hyderabad FC,24,2000,20,8,807,9,0,0,0,0,0,0,2,0,0,0,0,0,0,Matches
+3,Joseph Adjei,ghGHA,DF,Mohammedan,28,1995,6,5,432,4.8,0,0,0,0,0,0,3,0,0,0,0,0,0,Matches
+4,Mohammed Aimen,inIND,MF,Kerala Blasters,21,2003,10,5,396,4.4,0,3,3,0,0,0,1,0,0,0.68,0.68,0,0.68,Matches
+5,Alaeddine Ajaraie,maMAR,"FW,MF",NorthEast Utd,31,1993,24,23,"2,055",22.8,23,7,30,21,2,4,2,0,1.01,0.31,1.31,0.92,1.23,Matches
+6,Asheer Akhtar,inIND,DF,NorthEast Utd,29,1994,21,21,"1,881",20.9,1,0,1,1,0,0,4,1,0.05,0,0.05,0.05,0.05,Matches
+7,Andrei Alba,brBRA,MF,Hyderabad FC,29,1995,20,20,"1,716",19.1,3,1,4,2,1,2,3,0,0.16,0.05,0.21,0.1,0.16,Matches
+8,Alberto,esESP,DF,Mohun Bagan,31,1992,19,19,"1,700",18.9,5,1,6,5,0,0,6,0,0.26,0.05,0.32,0.26,0.32,Matches
+9,Néstor Albiach,esESP,"MF,FW",NorthEast Utd,31,1992,24,16,"1,411",15.7,6,1,7,6,0,0,1,0,0.38,0.06,0.45,0.38,0.45,Matches
+10,Tom Aldred,sctSCO,DF,Mohun Bagan,33,1990,23,22,"1,965",21.8,2,1,3,2,0,0,5,0,0.09,0.05,0.14,0.09,0.14,Matches
+11,Anwar Ali,inIND,"DF,MF",East Bengal,23,2000,18,17,"1,488",16.5,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches
+12,Mohammed Ali Bemammer,maMAR,MF,NorthEast Utd,34,1989,21,20,"1,735",19.3,3,1,4,3,0,0,9,1,0.16,0.05,0.21,0.16,0.21,Matches
+13,Samad Ali Mallick,inIND,DF,Mohammedan,29,1994,6,2,255,2.8,0,0,0,0,0,0,3,0,0,0,0,0,0,Matches
+14,Rahim Ali,inIND,"DF,MF",Odisha,24,2000,22,12,"1,253",13.9,2,0,2,2,0,0,2,0,0.14,0,0.14,0.14,0.14,Matches
+15,CK Aman,inIND,FW,East Bengal,21,2003,5,0,60,0.7,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches
+16,Marc Andre Schmerböck,atAUT,"MF,FW",Mohammedan,30,1994,6,2,211,2.3,1,0,1,1,0,0,0,0,0.43,0,0.43,0.43,0.43,Matches
+17,Wahengbam Angousana Luwang,inIND,MF,Mohammedan,28,1996,9,2,190,2.1,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches
+18,Aniket Anil Jadhav,inIND,MF,Jamshedpur,24,2000,7,1,217,2.4,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches
+19,Lalengmawia Apuia,inIND,MF,Mohun Bagan,23,2000,20,20,"1,760",19.6,0,0,0,0,0,0,7,0,0,0,0,0,0,Matches
+20,Mohammed Arshaf,inIND,MF,NorthEast Utd,20,2004,1,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+21,Melroy Assisi,inIND,DF,Punjab,25,1998,8,5,388,4.3,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+22,Leon Augustine,inIND,"DF,MF",Punjab,25,1998,20,9,"1,024",11.4,1,0,1,1,0,0,4,0,0.09,0,0.09,0.09,0.09,Matches
+23,Mohammed Azhar,inIND,MF,Kerala Blasters,21,2003,6,1,102,1.1,0,0,0,0,0,0,2,0,0,0,0,0,0,Matches
+24,Mushaga Bakenga,noNOR,FW,Punjab,31,1992,10,3,374,4.2,1,1,2,1,0,0,1,0,0.24,0.24,0.48,0.24,0.48,Matches
+25,Sayan Banerjee,inIND,MF,East Bengal,21,2003,8,0,70,0.8,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,MP,Starts,Min,90s,Gls,Ast,G+A,G-PK,PK,PKatt,CrdY,CrdR,Gls,Ast,G+A,G-PK,G+A-PK,Matches
+26,Nikhil Barla,inIND,"DF,MF",Jamshedpur,20,2003,19,11,"1,112",12.4,1,1,2,1,0,0,1,0,0.08,0.08,0.16,0.08,0.16,Matches
+27,Vincy Barretto,inIND,MF,Chennaiyin,24,1999,15,4,430,4.8,1,0,1,1,0,0,1,0,0.21,0,0.21,0.21,0.21,Matches
+28,Saurabh Bhanwala,inIND,DF,Mohun Bagan,24,1999,3,1,66,0.7,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+29,Suhail Bhat,inIND,FW,Mohun Bagan,19,2005,11,1,131,1.5,0,0,0,0,0,0,2,0,0,0,0,0,0,Matches
+30,Hardik Bhatt,inIND,DF,Mumbai City,27,1997,1,1,90,1,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+31,Rahul Bheke,inIND,DF,Bengaluru,33,1990,21,21,"1,890",21,3,0,3,3,0,0,7,0,0.14,0,0.14,0.14,0.14,Matches
+32,Namgyal Bhutia,inIND,DF,Bengaluru,24,1999,5,3,286,3.2,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches
+33,Sagolsem Bikash Singh,inIND,"FW,MF",Mohammedan,23,2001,21,10,998,11.1,0,0,0,0,0,0,2,0,0,0,0,0,0,Matches
+34,Dippendu Biswas,inIND,DF,Mohun Bagan,21,2003,14,11,956,10.6,1,2,3,1,0,0,2,0,0.09,0.19,0.28,0.09,0.28,Matches
+35,Gaurav Bora,inIND,DF,Mohammedan,26,1998,15,12,"1,064",11.8,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches
+36,Rowllin Borges,inIND,MF,Goa,32,1992,12,8,636,7.1,0,1,1,0,0,0,0,0,0,0.14,0.14,0,0.14,Matches
+37,Subashish Bose,inIND,DF,Mohun Bagan,28,1995,22,22,"1,952",21.7,6,1,7,6,0,0,7,0,0.28,0.05,0.32,0.28,0.32,Matches
+38,Hugo Boumous,frFRA,MF,Odisha,29,1995,21,20,"1,740",19.3,6,7,13,6,0,0,6,0,0.31,0.36,0.67,0.31,0.67,Matches
+39,Lukas Brambilla,brBRA,"MF,FW",Chennaiyin,29,1995,21,13,"1,228",13.6,4,4,8,3,1,1,2,0,0.29,0.29,0.59,0.22,0.51,Matches
+40,Pedro Capó,esESP,MF,Bengaluru,33,1990,20,18,"1,590",17.7,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+41,Richard Celis,veVEN,"MF,FW",East Bengal,28,1996,6,4,416,4.6,0,0,0,0,0,0,3,0,0,0,0,0,0,Matches
+42,Souvik Chakrabarti,inIND,MF,East Bengal,37,1987,20,18,"1,556",17.3,0,0,0,0,0,0,6,1,0,0,0,0,0,Matches
+43,Fredy Chawngthansanga,inIND,FW,NorthEast Utd,21,2003,1,0,14,0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+44,Lalhriatpuia Chawngthu,inIND,MF,Jamshedpur,19,2005,1,0,37,0.4,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+45,Padam Chettri,inIND,GK,Mohammedan,27,1997,17,17,"1,530",17,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+46,Lallianzuala Chhangte,inIND,"FW,MF",Mumbai City,26,1997,23,23,"2,008",22.3,6,3,9,4,2,2,2,0,0.27,0.13,0.4,0.18,0.31,Matches
+47,Ayush Chhetri,inIND,MF,Goa,21,2003,21,14,"1,195",13.3,1,2,3,1,0,0,3,0,0.08,0.15,0.23,0.08,0.23,Matches
+48,Sunil Chhetri,inIND,FW,Bengaluru,39,1984,23,17,"1,648",18.3,11,2,13,7,4,5,0,0,0.6,0.11,0.71,0.38,0.49,Matches
+49,Ayush Chhikara,inIND,FW,Mumbai City,22,2002,7,1,132,1.5,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches
+50,Daniel Chima Chukwu,ngNGA,FW,Chennaiyin,33,1991,22,7,782,8.7,6,1,7,6,0,0,2,0,0.69,0.12,0.81,0.69,0.81,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,MP,Starts,Min,90s,Gls,Ast,G+A,G-PK,PK,PKatt,CrdY,CrdR,Gls,Ast,G+A,G-PK,G+A-PK,Matches
+51,Makan Chote,inIND,"FW,MF",Mohammedan,24,2000,19,7,602,6.7,1,1,2,1,0,0,0,0,0.15,0.15,0.3,0.15,0.3,Matches
+52,Farukh Choudhary,inIND,MF,Chennaiyin,27,1996,20,13,"1,115",12.4,2,1,3,2,0,0,1,0,0.16,0.08,0.24,0.16,0.24,Matches
+53,Pratik Chowdhary,inIND,DF,Jamshedpur,34,1989,21,21,"1,869",20.8,2,0,2,2,0,0,6,0,0.1,0,0.1,0.1,0.1,Matches
+54,Lazar Ćirković,rsSRB,"DF,MF",Jamshedpur,31,1992,19,10,915,10.2,1,0,1,1,0,0,2,0,0.1,0,0.1,0.1,0.1,Matches
+55,Alexandre Coeff,frFRA,"MF,DF",Kerala Blasters,32,1992,13,10,748,8.3,1,0,1,1,0,0,2,0,0.12,0,0.12,0.12,0.12,Matches
+56,Liston Colaco,inIND,MF,Mohun Bagan,25,1998,24,21,"1,870",20.8,4,1,5,4,0,0,1,0,0.19,0.05,0.24,0.19,0.24,Matches
+57,Edmilson Correia,gwGNB,"MF,FW",Hyderabad FC,24,2000,16,9,882,9.8,2,1,3,2,0,0,3,0,0.2,0.1,0.31,0.2,0.31,Matches
+58,Saúl Crespo,esESP,MF,East Bengal,28,1996,13,12,"1,046",11.6,1,2,3,1,0,1,4,0,0.09,0.17,0.26,0.09,0.26,Matches
+59,Jason Cummings,auAUS,"FW,MF",Mohun Bagan,28,1995,22,8,808,9,4,6,10,4,0,0,4,0,0.45,0.67,1.11,0.45,1.11,Matches
+60,Leander D'Cunha,inIND,DF,Hyderabad FC,26,1997,10,4,361,4,0,0,0,0,0,0,2,1,0,0,0,0,0,Matches
+61,Vignesh Dakshina Murthy,inIND,DF,Chennaiyin,26,1998,9,6,507,5.6,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches
+62,Rohit Danu,inIND,"MF,FW",Bengaluru,22,2002,5,2,207,2.3,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches
+63,Nitesh Darjee,inIND,DF,Punjab,20,2004,3,0,9,0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+64,Prabir Das,inIND,"DF,MF",Mumbai City,30,1993,5,0,63,0.7,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches
+65,Prabir Das,inIND,"DF,MF",Kerala Blasters,30,1993,1,0,14,0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+66,Ritwik Das,inIND,MF,Jamshedpur,27,1996,9,3,252,2.8,1,0,1,1,0,0,0,0,0.36,0,0.36,0.36,0.36,Matches
+67,Sourav Das,inIND,MF,Jamshedpur,28,1996,19,19,"1,264",14,0,0,0,0,0,0,4,0,0,0,0,0,0,Matches
+68,Supratim Das,inIND,MF,Mumbai City,19,2005,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+69,Tanmay Das,inIND,MF,East Bengal,23,2001,1,1,83,0.9,0,0,0,0,0,0,2,1,0,0,0,0,0,Matches
+70,Carlos Delgado,esESP,DF,Odisha,34,1990,18,10,883,9.8,0,0,0,0,0,0,2,1,0,0,0,0,0,Matches
+71,Israfil Dewan,inIND,FW,Mohammedan,23,2001,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+72,Suman Dey,inIND,DF,East Bengal,21,2003,1,1,90,1,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches
+73,Abhishek Dhananjay,inIND,MF,Mohun Bagan,23,2001,11,4,414,4.6,0,1,1,0,0,0,4,0,0,0.22,0.22,0,0.22,Matches
+74,Dimitris Diamantakos,grGRE,FW,East Bengal,31,1993,19,18,"1,441",16,4,1,5,3,1,1,2,1,0.25,0.06,0.31,0.19,0.25,Matches
+75,Soraisham Dinesh Singh,inIND,DF,NorthEast Utd,26,1997,15,13,"1,111",12.3,0,1,1,0,0,0,8,1,0,0.08,0.08,0,0.08,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,MP,Starts,Min,90s,Gls,Ast,G+A,G-PK,PK,PKatt,CrdY,CrdR,Gls,Ast,G+A,G-PK,G+A-PK,Matches
+76,Aibanbha Dohling,inIND,DF,Kerala Blasters,28,1996,12,7,590,6.6,0,0,0,0,0,0,1,2,0,0,0,0,0,Matches
+77,Dorielton,brBRA,FW,Odisha,34,1990,10,5,526,5.8,3,1,4,3,0,0,2,0,0.51,0.17,0.68,0.51,0.68,Matches
+78,Seiminlen Doungel,inIND,MF,Jamshedpur,30,1994,18,1,453,5,0,2,2,0,0,0,2,0,0,0.4,0.4,0,0.4,Matches
+79,Dejan Dražić,rsSRB,"MF,FW",Goa,28,1995,21,13,"1,151",12.8,1,3,4,1,0,0,1,0,0.08,0.23,0.31,0.08,0.31,Matches
+80,Miloš Drinčić,meMNE,DF,Kerala Blasters,25,1999,21,19,"1,642",18.2,1,0,1,1,0,0,3,1,0.05,0,0.05,0.05,0.05,Matches
+81,Ryan Edwards,engENG,DF,Chennaiyin,30,1993,20,19,"1,542",17.1,1,0,1,1,0,0,7,1,0.06,0,0.06,0.06,0.06,Matches
+82,Stephen Eze,ngNGA,DF,Jamshedpur,30,1994,21,19,"1,637",18.2,3,0,3,3,0,0,7,1,0.16,0,0.16,0.16,0.16,Matches
+83,Mourtada Fall,snSEN,DF,Odisha,36,1987,21,20,"1,842",20.5,5,1,6,5,0,0,4,1,0.24,0.05,0.29,0.24,0.29,Matches
+84,Lalremsanga Fanai,inIND,"FW,MF",Mohammedan,22,2001,23,22,"1,761",19.6,2,0,2,1,1,1,1,0,0.1,0,0.1,0.05,0.05,Matches
+85,Lalremtluanga Fanai,inIND,MF,Bengaluru,19,2004,21,6,854,9.5,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches
+86,Danish Farooq,inIND,MF,Kerala Blasters,28,1996,20,13,"1,212",13.5,1,0,1,1,0,0,4,0,0.07,0,0.07,0.07,0.07,Matches
+87,Brandon Fernandes,inIND,MF,Mumbai City,29,1994,22,18,"1,526",17,0,2,2,0,0,0,3,0,0,0.12,0.12,0,0.12,Matches
+88,Brison Fernandes,inIND,MF,Goa,23,2001,22,15,"1,261",14,7,2,9,7,0,0,1,0,0.5,0.14,0.64,0.5,0.64,Matches
+89,Nora Fernandes,inIND,GK,Kerala Blasters,26,1998,3,3,270,3,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+90,Raynier Fernandes,inIND,MF,Odisha,,,16,6,584,6.5,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches
+91,Seriton Fernandes,inIND,DF,Goa,31,1992,6,1,181,2,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+92,França,brBRA,FW,Mohammedan,29,1995,24,22,"1,874",20.8,1,1,2,1,0,1,4,0,0.05,0.05,0.1,0.05,0.1,Matches
+93,Narender Gahlot,inIND,DF,Odisha,23,2001,4,1,94,1,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+94,Saviour Gama,inIND,DF,Odisha,27,1997,19,7,883,9.8,0,1,1,0,0,0,5,0,0,0.1,0.1,0,0.1,Matches
+95,Petros Giakoumakis,grGRE,FW,Punjab,32,1992,10,5,525,5.8,1,2,3,1,0,0,0,0,0.17,0.34,0.51,0.17,0.51,Matches
+96,Cy Goddard,jpJPN,"MF,FW",Hyderabad FC,27,1997,21,16,"1,419",15.8,1,2,3,1,0,0,1,0,0.06,0.13,0.19,0.06,0.19,Matches
+97,Albino Gomes,inIND,GK,Jamshedpur,30,1994,24,24,"2,142",23.8,0,0,0,0,0,0,2,0,0,0,0,0,0,Matches
+98,Alexis Gómez,arARG,"MF,FW",Mohammedan,24,2000,21,20,"1,730",19.2,1,1,2,0,1,1,5,0,0.05,0.05,0.1,0,0.05,Matches
+99,Amrit Gope,inIND,GK,Jamshedpur,24,1999,2,0,18,0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+100,Iker Guarrotxena,esESP,"FW,MF",Goa,31,1992,19,13,"1,232",13.7,7,3,10,7,0,0,1,0,0.51,0.22,0.73,0.51,0.73,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,MP,Starts,Min,90s,Gls,Ast,G+A,G-PK,PK,PKatt,CrdY,CrdR,Gls,Ast,G+A,G-PK,G+A-PK,Matches
+101,Guillermo,esESP,"FW,MF",NorthEast Utd,31,1993,18,12,"1,091",12.1,5,0,5,5,0,0,0,0,0.41,0,0.41,0.41,0.41,Matches
+102,Jay Gupta,inIND,DF,Goa,22,2001,16,6,647,7.2,0,0,0,0,0,0,3,0,0,0,0,0,0,Matches
+103,Pronay Halder,inIND,"DF,MF",Jamshedpur,31,1993,7,2,199,2.2,0,0,0,0,0,0,2,0,0,0,0,0,0,Matches
+104,Robi Hansda,inIND,FW,Mohammedan,25,1999,5,1,155,1.7,1,1,2,1,0,0,0,0,0.58,0.58,1.16,0.58,1.16,Matches
+105,Javi Hernández,esESP,"MF,FW",Jamshedpur,35,1989,23,23,"1,973",21.9,7,3,10,4,3,3,4,0,0.32,0.14,0.46,0.18,0.32,Matches
+106,Borja Herrera,esESP,MF,Goa,31,1993,20,15,"1,321",14.7,5,4,9,5,0,0,4,1,0.34,0.27,0.61,0.34,0.61,Matches
+107,Lalrinliana Hnamte,inIND,MF,Chennaiyin,21,2003,21,18,"1,601",17.8,0,1,1,0,0,0,2,0,0,0.06,0.06,0,0.06,Matches
+108,Sajad Hussain Parray,inIND,DF,Mohammedan,21,2003,5,3,263,2.9,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches
+109,Mohammed Irshad,inIND,MF,Mohammedan,29,1994,17,12,"1,036",11.5,1,0,1,1,0,0,6,1,0.09,0,0.09,0.09,0.09,Matches
+110,Ahmed Jahouh,maMAR,MF,Odisha,36,1988,16,15,"1,340",14.9,1,4,5,0,1,1,9,3,0.07,0.27,0.34,0,0.27,Matches
+111,Mohammed Jassim,inIND,DF,Mohammedan,27,1996,2,1,86,1,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches
+112,Sandesh Jhingan,inIND,DF,Goa,31,1993,18,17,"1,560",17.3,1,1,2,1,0,0,1,0,0.06,0.06,0.12,0.06,0.12,Matches
+113,Jesús Jiménez,esESP,FW,Kerala Blasters,30,1993,18,15,"1,340",14.9,11,1,12,9,2,2,0,0,0.74,0.07,0.81,0.6,0.67,Matches
+114,Ricky John Shabong,inIND,MF,Punjab,21,2002,24,17,"1,691",18.8,1,2,3,1,0,0,3,0,0.05,0.11,0.16,0.05,0.16,Matches
+115,Lalbiakhlua Jongte,inIND,GK,Hyderabad FC,22,2002,7,7,630,7,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches
+116,Wilmar Jordán,coCOL,FW,Chennaiyin,33,1990,22,18,"1,487",16.5,10,1,11,9,1,1,1,1,0.61,0.06,0.67,0.54,0.61,Matches
+117,Soyal Joshy,inIND,DF,Hyderabad FC,22,2002,5,1,120,1.3,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+118,Aleksandar Jovanović,auAUS,DF,Bengaluru,34,1989,20,13,"1,040",11.6,0,0,0,0,0,0,1,1,0,0,0,0,0,Matches
+119,Elson José Dias Júnior,brBRA,"MF,DF",Chennaiyin,33,1991,21,14,"1,260",14,0,0,0,0,0,0,2,0,0,0,0,0,0,Matches
+120,Abdul Rabeeh A K,inIND,"MF,DF",Hyderabad FC,23,2001,24,23,"2,052",22.8,0,0,0,0,0,0,3,0,0,0,0,0,0,Matches
+121,Vishal Kaith,inIND,GK,Mohun Bagan,28,1996,23,23,"2,070",23,0,0,0,0,0,0,2,0,0,0,0,0,0,Matches
+122,Nikos Karelis,grGRE,FW,Mumbai City,32,1992,18,18,"1,392",15.5,10,2,12,8,2,2,1,0,0.65,0.13,0.78,0.52,0.65,Matches
+123,Laxmikant Kattimani,inIND,GK,Goa,35,1989,6,6,540,6,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches
+124,Imran Khan,inIND,MF,Jamshedpur,29,1994,24,22,"1,578",17.5,0,3,3,0,0,0,1,0,0,0.17,0.17,0,0.17,Matches
+125,Manglenthang Kipgen,inIND,MF,Punjab,19,2005,5,0,71,0.8,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,MP,Starts,Min,90s,Gls,Ast,G+A,G-PK,PK,PKatt,CrdY,CrdR,Gls,Ast,G+A,G-PK,G+A-PK,Matches
+126,Pritam Kotal,inIND,DF,Kerala Blasters,30,1993,14,11,"1,014",11.3,0,1,1,0,0,0,2,0,0,0.09,0.09,0,0.09,Matches
+127,Pritam Kotal,inIND,DF,Chennaiyin,30,1993,7,7,585,6.5,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+128,Rahul KP,inIND,"MF,FW",Odisha,24,2000,8,8,623,6.9,1,1,2,1,0,0,1,1,0.14,0.14,0.29,0.14,0.29,Matches
+129,Rahul KP,inIND,"MF,FW",Kerala Blasters,24,2000,11,6,515,5.7,1,0,1,1,0,0,1,0,0.17,0,0.17,0.17,0.17,Matches
+130,Roy Krishna,fjFIJ,"FW,MF",Odisha,36,1987,9,6,524,5.8,3,0,3,3,0,0,0,0,0.52,0,0.52,0.52,0.52,Matches
+131,Thaer Krouma,sySYR,"DF,MF",Mumbai City,34,1990,17,9,890,9.9,2,1,3,2,0,0,1,0,0.2,0.1,0.3,0.2,0.3,Matches
+132,Nanda Kumar,inIND,"MF,FW",East Bengal,28,1995,18,14,"1,165",12.9,0,1,1,0,0,0,5,1,0,0.08,0.08,0,0.08,Matches
+133,Nishu Kumar,inIND,"DF,MF",East Bengal,26,1997,13,8,849,9.4,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches
+134,Ravi Kumar,inIND,GK,Punjab,31,1993,15,15,"1,350",15,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches
+135,Rohit Kumar,inIND,MF,Odisha,27,1997,18,6,593,6.6,0,0,0,0,0,0,2,0,0,0,0,0,0,Matches
+136,Som Kumar,inIND,GK,Kerala Blasters,19,2005,4,4,360,4,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches
+137,Ashique Kuruniyan,inIND,"DF,MF",Mohun Bagan,27,1997,15,2,358,4,0,0,0,0,0,0,2,0,0,0,0,0,0,Matches
+138,Phurba Lachenpa,inIND,GK,Mumbai City,26,1998,19,18,"1,654",18.4,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches
+139,Dušan Lagator,meMNE,DF,Kerala Blasters,30,1994,7,4,387,4.3,1,1,2,1,0,0,2,0,0.23,0.23,0.47,0.23,0.47,Matches
+140,Provat Lakra,inIND,DF,East Bengal,26,1997,13,7,665,7.4,0,1,1,0,0,0,5,1,0,0.14,0.14,0,0.14,Matches
+141,Lalchungnunga,inIND,DF,East Bengal,23,2000,18,16,"1,468",16.3,2,0,2,2,0,0,10,3,0.12,0,0.12,0.12,0.12,Matches
+142,Laldanmawia,inIND,DF,Hyderabad FC,20,2004,2,0,13,0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+143,Jeremy Laldinpuia,inIND,MF,Mohammedan,24,2000,2,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+144,David Lalhlansanga,inIND,"FW,MF",East Bengal,22,2001,17,6,574,6.4,4,0,4,4,0,0,0,0,0.63,0,0.63,0.63,0.63,Matches
+145,Daniel Lalhlimpuia,inIND,FW,Mumbai City,26,1997,4,0,6,0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+146,Freddy Lallawmawma,inIND,MF,Kerala Blasters,22,2002,17,11,"1,092",12.1,1,0,1,1,0,0,4,0,0.08,0,0.08,0.08,0.08,Matches
+147,K Lalrinfela,inIND,MF,Mohammedan,24,2000,11,7,696,7.7,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches
+148,Jerry Lalrinzuala,inIND,DF,Odisha,26,1998,19,17,"1,240",13.8,0,1,1,0,0,0,2,0,0,0.07,0.07,0,0.07,Matches
+149,K Lalthathanga,inIND,MF,Odisha,26,1998,22,22,"1,793",19.9,1,0,1,1,0,0,5,0,0.05,0,0.05,0.05,0.05,Matches
+150,Lara,inIND,GK,Goa,24,1999,1,1,90,1,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,MP,Starts,Min,90s,Gls,Ast,G+A,G-PK,PK,PKatt,CrdY,CrdR,Gls,Ast,G+A,G-PK,G+A-PK,Matches
+151,Khaiminthang Lhungdim,inIND,"DF,MF",Punjab,24,2000,17,17,"1,479",16.4,1,2,3,1,0,0,6,2,0.06,0.12,0.18,0.06,0.18,Matches
+152,Macarton Louis Nickson,inIND,MF,NorthEast Utd,20,2004,20,15,"1,313",14.6,2,1,3,2,0,0,5,0,0.14,0.07,0.21,0.14,0.21,Matches
+153,Adrián Luna,uyURU,MF,Kerala Blasters,32,1992,22,20,"1,824",20.3,0,6,6,0,0,0,4,0,0,0.3,0.3,0,0.3,Matches
+154,Jithin M.S.,inIND,MF,NorthEast Utd,26,1998,22,19,"1,538",17.1,2,5,7,2,0,0,4,0,0.12,0.29,0.41,0.12,0.41,Matches
+155,Jamie Maclaren,auAUS,FW,Mohun Bagan,31,1993,22,19,"1,632",18.1,11,2,13,10,1,1,3,0,0.61,0.11,0.72,0.55,0.66,Matches
+156,Hijazi Maher,joJOR,DF,East Bengal,26,1997,13,13,"1,120",12.4,2,0,2,2,0,0,3,0,0.16,0,0.16,0.16,0.16,Matches
+157,Luka Majcen,siSVN,FW,Punjab,35,1989,20,14,"1,247",13.9,10,3,13,8,2,2,5,0,0.72,0.22,0.94,0.58,0.79,Matches
+158,Debjit Majumder,inIND,GK,East Bengal,36,1988,4,3,273,3,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+159,Chaku Mandi,inIND,DF,East Bengal,24,2000,1,1,90,1,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+160,César Manzoki,cfCTA,FW,Mohammedan,27,1996,12,4,563,6.3,1,0,1,1,0,1,3,0,0.16,0,0.16,0.16,0.16,Matches
+161,Jeremy Manzorro,frFRA,MF,Mumbai City,32,1991,9,5,422,4.7,0,0,0,0,0,0,2,0,0,0,0,0,0,Matches
+162,Zothanpuia Mark,inIND,DF,East Bengal,22,2002,7,3,300,3.3,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+163,Diego Maurício,brBRA,FW,Odisha,33,1991,22,16,"1,417",15.7,9,6,15,6,3,4,1,0,0.57,0.38,0.95,0.38,0.76,Matches
+164,Jerry Mawihmingthanga,inIND,"MF,FW",Odisha,27,1997,22,13,"1,060",11.8,5,2,7,5,0,0,3,0,0.42,0.17,0.59,0.42,0.59,Matches
+165,Mayakkannan,inIND,MF,NorthEast Utd,27,1997,23,23,"1,992",22.1,0,1,1,0,0,0,2,0,0,0.05,0.05,0,0.05,Matches
+166,Carl McHugh,ieIRL,MF,Goa,31,1993,20,19,"1,624",18,1,1,2,1,0,0,7,1,0.06,0.06,0.11,0.06,0.11,Matches
+167,Ninthoinganba Meetei,inIND,FW,Punjab,23,2001,9,1,240,2.7,0,1,1,0,0,0,1,0,0,0.37,0.37,0,0.37,Matches
+168,Ashutosh Mehta,inIND,DF,Jamshedpur,33,1991,12,9,774,8.6,0,0,0,0,0,0,4,0,0,0,0,0,0,Matches
+169,Danny Meitei,inIND,MF,NorthEast Utd,16,2007,1,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+170,N. Meitei,inIND,DF,Punjab,30,1994,22,21,"1,832",20.4,0,0,0,0,0,0,4,0,0,0,0,0,0,Matches
+171,Sukham Meitei,inIND,MF,Kerala Blasters,20,2004,3,1,60,0.7,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+172,Édgar Méndez,esESP,FW,Bengaluru,34,1990,22,19,"1,632",18.1,7,4,11,7,0,0,6,0,0.39,0.22,0.61,0.39,0.61,Matches
+173,Raphaël Messi Bouli,cmCMR,FW,East Bengal,32,1992,5,4,352,3.9,2,1,3,2,0,0,2,0,0.51,0.26,0.77,0.51,0.77,Matches
+174,Mirshad Michu,inIND,GK,NorthEast Utd,30,1994,1,1,90,1,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+175,Samik Mitra,inIND,GK,Chennaiyin,23,2000,7,7,630,7,0,0,0,0,0,0,2,0,0,0,0,0,0,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,MP,Starts,Min,90s,Gls,Ast,G+A,G-PK,PK,PKatt,CrdY,CrdR,Gls,Ast,G+A,G-PK,G+A-PK,Matches
+176,Yasir Mohammad,inIND,MF,Goa,24,1999,19,12,944,10.5,2,2,4,2,0,0,1,0,0.19,0.19,0.38,0.19,0.38,Matches
+177,Manoj Mohammed,inIND,DF,Hyderabad FC,25,1999,14,13,"1,157",12.9,2,2,4,2,0,0,3,0,0.16,0.16,0.31,0.16,0.31,Matches
+178,Sanan Mohammed,inIND,MF,Jamshedpur,20,2004,24,19,"1,536",17.1,3,1,4,3,0,0,2,0,0.18,0.06,0.23,0.18,0.23,Matches
+179,Vibin Mohanan,inIND,MF,Kerala Blasters,21,2003,20,16,"1,433",15.9,0,1,1,0,0,0,3,0,0,0.06,0.06,0,0.06,Matches
+180,Monirul Molla,inIND,FW,Bengaluru,19,2005,1,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+181,Hira Mondal,inIND,MF,East Bengal,27,1996,1,1,74,0.8,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+182,Filip Mrzljak,hrCRO,MF,Punjab,31,1993,17,13,"1,030",11.4,4,2,6,4,0,0,0,0,0.35,0.17,0.52,0.35,0.52,Matches
+183,Wungngayam Muirang,inIND,DF,Jamshedpur,25,1999,6,3,359,4,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches
+184,Ankit Mukherjee,inIND,DF,Chennaiyin,28,1996,10,7,638,7.1,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+185,Devendra Murgaokar,inIND,"MF,FW",Hyderabad FC,25,1998,19,4,563,6.3,1,0,1,1,0,0,2,0,0.16,0,0.16,0.16,0.16,Matches
+186,Samir Murmu,inIND,FW,Jamshedpur,22,2001,1,0,45,0.5,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+187,Jordan Murray,auAUS,"FW,MF",Jamshedpur,28,1995,20,14,"1,278",14.2,6,0,6,5,1,1,3,0,0.42,0,0.42,0.35,0.35,Matches
+188,Narendra Naik,inIND,MF,Odisha,19,2005,1,0,14,0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+189,Anandhu Nambrath Sundran,,MF,East Bengal,,,1,0,16,0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+190,Kiyan Nassiri,inIND,MF,Chennaiyin,23,2000,14,6,487,5.4,0,1,1,0,0,0,3,0,0,0.18,0.18,0,0.18,Matches
+191,Mohammad Nawaz,inIND,GK,Chennaiyin,24,2000,16,16,"1,440",16,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches
+192,Franklin Nazareth,inIND,MF,Mumbai City,20,2004,5,0,82,0.9,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches
+193,Muhammed Nemil,inIND,MF,Goa,22,2002,9,0,129,1.4,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches
+194,Yoell van Nieff,nlNED,MF,Mumbai City,31,1993,22,21,"1,853",20.6,2,3,5,2,0,0,6,0,0.1,0.15,0.24,0.1,0.24,Matches
+195,Gyamar Nikum,inIND,MF,Mumbai City,19,2004,2,0,18,0.2,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches
+196,Alberto Noguera,esESP,MF,Bengaluru,34,1989,21,19,"1,613",17.9,5,3,8,5,0,0,3,0,0.28,0.17,0.45,0.28,0.45,Matches
+197,Ivan Novoselec,hrCRO,DF,Punjab,29,1995,20,19,"1,613",17.9,1,0,1,1,0,0,5,0,0.06,0,0.06,0.06,0.06,Matches
+198,Florent Ogier,frFRA,DF,Mohammedan,35,1989,18,17,"1,551",17.2,0,0,0,0,0,0,5,0,0,0,0,0,0,Matches
+199,Odei Onaindia,esESP,DF,Goa,34,1989,23,23,"1,996",22.2,0,0,0,0,0,0,5,0,0,0,0,0,0,Matches
+200,Bekey Oram,inIND,"MF,DF",NorthEast Utd,20,2003,7,2,241,2.7,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,MP,Starts,Min,90s,Gls,Ast,G+A,G-PK,PK,PKatt,CrdY,CrdR,Gls,Ast,G+A,G-PK,G+A-PK,Matches
+201,Jorge Ortiz Mendoza,esESP,FW,Mumbai City,32,1992,8,3,388,4.3,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+202,Noufal P.N,inIND,MF,Mumbai City,23,2000,14,0,332,3.7,0,1,1,0,0,0,0,0,0,0.27,0.27,0,0.27,Matches
+203,Abhijith PA,inIND,MF,Hyderabad FC,21,2003,12,3,271,3,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+204,Ankith Padmanabhan,inIND,FW,NorthEast Utd,22,2001,4,0,33,0.4,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+205,Ishan Pandita,inIND,FW,Kerala Blasters,26,1998,3,1,70,0.8,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+206,Sahil Panwar,inIND,DF,Mumbai City,24,1999,18,8,740,8.2,0,0,0,0,0,0,3,0,0,0,0,0,0,Matches
+207,Allan Paulista,brBRA,FW,Hyderabad FC,25,1999,23,17,"1,467",16.3,4,1,5,4,0,0,1,0,0.25,0.06,0.31,0.25,0.31,Matches
+208,Laldinpuia PC,inIND,DF,Chennaiyin,27,1996,20,18,"1,627",18.1,1,0,1,1,0,0,7,1,0.06,0,0.06,0.06,0.06,Matches
+209,Jorge Pereyra Díaz,arARG,FW,Bengaluru,33,1990,13,8,784,8.7,2,1,3,2,0,0,2,0,0.23,0.11,0.34,0.23,0.34,Matches
+210,Dimitri Petratos,auAUS,"MF,FW",Mohun Bagan,31,1992,21,12,"1,092",12.1,4,3,7,2,2,2,1,0,0.33,0.25,0.58,0.16,0.41,Matches
+211,Nikhil Poojari,inIND,DF,Bengaluru,28,1995,16,15,"1,284",14.3,0,1,1,0,0,0,2,0,0,0.07,0.07,0,0.07,Matches
+212,Sahil Poonia,inIND,GK,Bengaluru,18,2006,1,1,90,1,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+213,Nikhil Prabhu,inIND,MF,Punjab,23,2000,21,21,"1,764",19.6,0,0,0,0,0,0,6,0,0,0,0,0,0,Matches
+214,Ashish Pradhan,inIND,MF,Punjab,25,1999,11,5,424,4.7,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches
+215,Kwame Preprah,ghGHA,FW,Kerala Blasters,23,2000,23,13,"1,206",13.4,6,0,6,6,0,0,5,1,0.45,0,0.45,0.45,0.45,Matches
+216,Vishnu PV,inIND,MF,East Bengal,22,2001,22,16,"1,453",16.1,4,3,7,4,0,0,3,0,0.25,0.19,0.43,0.25,0.43,Matches
+217,Mirjalol Qosimov,uzUZB,MF,Mohammedan,28,1995,18,18,"1,552",17.2,2,1,3,1,1,2,9,1,0.12,0.06,0.17,0.06,0.12,Matches
+218,Lalthanmawia R,inIND,MF,Kerala Blasters,22,2002,11,3,344,3.8,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches
+219,Muhammed Rafi,inIND,DF,Hyderabad FC,23,2001,19,18,"1,582",17.6,1,2,3,1,0,0,4,0,0.06,0.11,0.17,0.06,0.17,Matches
+220,Mobashir Rahman,inIND,MF,Jamshedpur,26,1998,16,3,615,6.8,0,1,1,0,0,0,3,0,0,0.15,0.15,0,0.15,Matches
+221,Asish Rai,inIND,DF,Mohun Bagan,25,1999,21,19,"1,677",18.6,0,3,3,0,0,0,5,0,0,0.16,0.16,0,0.16,Matches
+222,Vinit Rai,inIND,MF,Punjab,26,1997,11,8,563,6.3,0,0,0,0,0,0,2,0,0,0,0,0,0,Matches
+223,Likmabam Rakesh,inIND,DF,Punjab,21,2003,5,0,111,1.2,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+224,Mohamad Rakip,inIND,DF,East Bengal,24,2000,15,15,"1,196",13.3,0,0,0,0,0,0,5,0,0,0,0,0,0,Matches
+225,Hmingthanmawia Ralte,inIND,DF,Mumbai City,24,2000,23,23,"1,994",22.2,0,0,0,0,0,0,5,0,0,0,0,0,0,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,MP,Starts,Min,90s,Gls,Ast,G+A,G-PK,PK,PKatt,CrdY,CrdR,Gls,Ast,G+A,G-PK,G+A-PK,Matches
+226,Lalthuammawia Ralte,inIND,GK,Bengaluru,31,1992,2,2,179,2,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+227,Zodingliana Ralte,inIND,DF,Mohammedan,29,1995,18,18,"1,597",17.7,0,1,1,0,0,0,4,0,0,0.06,0.06,0,0.06,Matches
+228,Ramhlunchhunga,byBLR,MF,Hyderabad FC,23,2001,23,21,"1,698",18.9,2,3,5,2,0,0,1,0,0.11,0.16,0.27,0.11,0.27,Matches
+229,Amey Ranawade,inIND,DF,Odisha,26,1998,22,18,"1,646",18.3,0,0,0,0,0,0,2,0,0,0,0,0,0,Matches
+230,Pramveer Ranbir,inIND,DF,Punjab,17,2007,10,6,586,6.5,0,0,0,0,0,0,3,0,0,0,0,0,0,Matches
+231,Jayesh Rane,inIND,MF,Mumbai City,32,1991,20,9,877,9.7,0,0,0,0,0,0,4,0,0,0,0,0,0,Matches
+232,Mandar Rao Dessai,inIND,DF,Chennaiyin,32,1992,11,6,649,7.2,0,0,0,0,0,0,2,0,0,0,0,0,0,Matches
+233,Sumit Rathi,inIND,DF,NorthEast Utd,22,2001,1,1,45,0.5,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+234,Hamza Regragui,maMAR,"DF,MF",NorthEast Utd,27,1997,11,3,314,3.5,0,1,1,0,0,0,1,0,0,0.29,0.29,0,0.29,Matches
+235,Laldinliana Renthlei,inIND,DF,Chennaiyin,25,1998,16,13,"1,200",13.3,0,1,1,0,0,0,3,1,0,0.07,0.07,0,0.07,Matches
+236,Rochharzela,inIND,MF,Mohammedan,26,1998,1,0,5,0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+237,Lenny Rodrigues,inIND,MF,Hyderabad FC,37,1987,11,6,548,6.1,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches
+238,Nathan Rodrigues,inIND,DF,Mumbai City,20,2004,22,16,"1,387",15.4,3,1,4,3,0,0,0,0,0.19,0.06,0.26,0.19,0.26,Matches
+239,Muhammed Roshal PP,inIND,MF,East Bengal,21,2003,1,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+240,Bhaskar Roy,inIND,GK,Mohammedan,31,1993,7,7,630,7,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+241,Hormipam Ruivah,inIND,DF,Kerala Blasters,23,2001,18,13,"1,189",13.2,0,0,0,0,0,0,8,0,0,0,0,0,0,Matches
+242,Noah Saadaoui,maMAR,"MF,FW",Kerala Blasters,30,1993,19,15,"1,437",16,7,5,12,6,1,1,2,0,0.44,0.31,0.75,0.38,0.69,Matches
+243,Armando Sadiku,alALB,FW,Goa,33,1991,22,13,"1,261",14,9,2,11,6,3,3,0,1,0.64,0.14,0.79,0.43,0.57,Matches
+244,Muhammed Saheef,inIND,DF,Kerala Blasters,21,2003,3,2,183,2,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches
+245,Lalchhanhima Sailo,inIND,MF,Hyderabad FC,21,2003,1,0,7,0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+246,Alex Saji,inIND,DF,Hyderabad FC,24,2000,21,21,"1,870",20.8,0,0,0,0,0,0,8,1,0,0,0,0,0,Matches
+247,Siva Sakthi,inIND,"FW,MF",Bengaluru,23,2001,12,2,295,3.3,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches
+248,Mohammed Salah,inIND,"DF,FW",Bengaluru,30,1994,12,5,429,4.8,0,2,2,0,0,0,3,0,0,0.42,0.42,0,0.42,Matches
+249,Buanthanglun Samte,inIND,DF,NorthEast Utd,24,1999,20,20,"1,717",19.1,0,3,3,0,0,0,3,0,0,0.16,0.16,0,0.16,Matches
+250,Aakash Sangwan,inIND,DF,Goa,28,1995,21,19,"1,691",18.8,1,2,3,1,0,0,6,0,0.05,0.11,0.16,0.05,0.16,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,MP,Starts,Min,90s,Gls,Ast,G+A,G-PK,PK,PKatt,CrdY,CrdR,Gls,Ast,G+A,G-PK,G+A-PK,Matches
+251,Stefan Šapić,rsSRB,DF,Hyderabad FC,27,1997,22,22,"1,940",21.6,2,0,2,2,0,0,3,0,0.09,0,0.09,0.09,0.09,Matches
+252,Shubham Sarangi,inIND,DF,Jamshedpur,24,2000,12,6,532,5.9,0,1,1,0,0,0,3,0,0,0.17,0.17,0,0.17,Matches
+253,Muheet Shabir,inIND,GK,Punjab,22,2001,9,9,810,9,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+254,Harsh Shailesh Patre,inIND,MF,Bengaluru,21,2003,4,3,201,2.2,0,0,0,0,0,0,2,0,0,0,0,0,0,Matches
+255,Singamayum Shami,inIND,FW,Punjab,17,2007,5,0,49,0.5,1,0,1,1,0,0,0,0,1.84,0,1.84,1.84,1.84,Matches
+256,Hitesh Sharma,inIND,MF,Mumbai City,26,1997,2,0,18,0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+257,Connor Shields,sctSCO,"MF,FW",Chennaiyin,27,1997,20,20,"1,758",19.5,1,8,9,1,0,0,4,1,0.05,0.41,0.46,0.05,0.46,Matches
+258,Parag Shrivas,inIND,DF,Hyderabad FC,27,1997,16,9,775,8.6,1,2,3,1,0,0,5,1,0.12,0.23,0.35,0.12,0.35,Matches
+259,Cleiton Silva,brBRA,"FW,MF",East Bengal,37,1987,18,11,"1,112",12.4,0,2,2,0,0,0,2,0,0,0.16,0.16,0,0.16,Matches
+260,Abhishek Singh,inIND,"DF,MF",Punjab,19,2005,22,22,"1,955",21.7,0,0,0,0,0,0,3,0,0,0,0,0,0,Matches
+261,Adison Singh,inIND,FW,Mohammedan,20,2004,7,1,169,1.9,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+262,Amarjit Singh,inIND,MF,Mohammedan,23,2001,16,12,933,10.4,0,0,0,0,0,0,3,0,0,0,0,0,0,Matches
+263,Amrinder Singh,inIND,GK,Odisha,31,1993,24,24,"2,160",24,0,0,0,0,0,0,3,0,0,0,0,0,0,Matches
+264,Aphaoba Singh,inIND,FW,Odisha,20,2004,2,0,5,0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+265,Arshdeep Singh,inIND,GK,Hyderabad FC,26,1997,16,16,"1,440",16,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+266,Bipin Singh,inIND,"FW,MF",Mumbai City,29,1995,20,13,"1,119",12.4,1,0,1,1,0,0,0,0,0.08,0,0.08,0.08,0.08,Matches
+267,Boris Singh,inIND,"DF,MF",Goa,24,2000,23,23,"2,009",22.3,1,1,2,1,0,0,5,0,0.04,0.04,0.09,0.04,0.09,Matches
+268,Chingambam Singh,inIND,FW,Bengaluru,20,2004,3,1,101,1.1,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+269,Dheeraj Singh,inIND,GK,Mohun Bagan,24,2000,1,1,90,1,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+270,Gurkirat Singh,inIND,DF,Chennaiyin,21,2003,12,0,179,2,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+271,Gurmeet Singh,inIND,GK,NorthEast Utd,24,1999,23,23,"2,070",23,0,0,0,0,0,0,2,0,0,0,0,0,0,Matches
+272,Gursimrat Singh,inIND,DF,East Bengal,26,1997,1,0,9,0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+273,Jeakson Singh,inIND,MF,East Bengal,23,2001,18,12,"1,145",12.7,2,0,2,2,0,0,6,1,0.16,0,0.16,0.16,0.16,Matches
+274,Jitendra Singh,inIND,MF,Chennaiyin,23,2001,14,5,498,5.5,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches
+275,Jiteshwor Singh,inIND,MF,Chennaiyin,22,2001,9,4,413,4.6,0,0,0,0,0,0,2,0,0,0,0,0,0,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,MP,Starts,Min,90s,Gls,Ast,G+A,G-PK,PK,PKatt,CrdY,CrdR,Gls,Ast,G+A,G-PK,G+A-PK,Matches
+276,Kamaljit Singh,inIND,GK,Kerala Blasters,28,1995,1,1,90,1,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+277,Karanjit Singh,inIND,GK,Hyderabad FC,38,1986,1,1,90,1,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+278,Kelvin Singh,inIND,FW,Bengaluru,18,2005,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+279,Konsham Singh,inIND,DF,Bengaluru,27,1996,20,15,"1,330",14.8,0,1,1,0,0,0,5,1,0,0.07,0.07,0,0.07,Matches
+280,Korou Singh,inIND,MF,Kerala Blasters,17,2006,17,15,"1,249",13.9,2,4,6,2,0,0,1,0,0.14,0.29,0.43,0.14,0.43,Matches
+281,Mahesh Singh,inIND,"MF,FW",East Bengal,25,1999,20,16,"1,280",14.2,2,1,3,2,0,0,4,1,0.14,0.07,0.21,0.14,0.21,Matches
+282,Maheson Singh,inIND,MF,Chennaiyin,19,2004,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+283,Manvir Singh,inIND,FW,Mohammedan,23,2001,10,5,510,5.7,1,0,1,1,0,0,2,0,0.18,0,0.18,0.18,0.18,Matches
+284,Manvir Singh,inIND,MF,Mohun Bagan,28,1995,23,21,"1,794",19.9,5,4,9,5,0,0,2,0,0.25,0.2,0.45,0.25,0.45,Matches
+285,Manvir Singh,inIND,FW,Jamshedpur,23,2001,1,0,5,0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+286,Mehtab Singh,inIND,DF,Mumbai City,26,1998,22,22,"1,980",22,1,0,1,1,0,0,2,0,0.05,0,0.05,0.05,0.05,Matches
+287,Naocha Singh,inIND,DF,Kerala Blasters,24,1999,22,22,"1,980",22,0,2,2,0,0,0,6,0,0,0.09,0.09,0,0.09,Matches
+288,Ngouba Singh,inIND,MF,NorthEast Utd,29,1995,4,2,188,2.1,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+289,Prabhsukhan Singh,inIND,GK,East Bengal,23,2001,21,21,"1,887",21,0,0,0,0,0,0,2,0,0,0,0,0,0,Matches
+290,Roshan Singh,inIND,DF,Bengaluru,25,1999,23,23,"2,062",22.9,1,3,4,1,0,0,3,0,0.04,0.13,0.17,0.04,0.17,Matches
+291,Sanatomba Singh,inIND,DF,Goa,18,2006,2,1,62,0.7,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+292,Sandeep Singh,inIND,"DF,MF",Kerala Blasters,29,1995,20,17,"1,405",15.6,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+293,Gurpreet Singh Sandhu,inIND,GK,Bengaluru,32,1992,21,20,"1,801",20,0,0,0,0,0,0,3,0,0,0,0,0,0,Matches
+294,Suresh Singh,inIND,MF,Bengaluru,23,2000,21,20,"1,578",17.5,1,1,2,1,0,0,1,0,0.06,0.06,0.11,0.06,0.11,Matches
+295,Thoi Singh,inIND,"MF,FW",NorthEast Utd,20,2004,12,4,442,4.9,0,2,2,0,0,0,0,0,0,0.41,0.41,0,0.41,Matches
+296,Thoiba Singh,inIND,"DF,MF",Odisha,21,2002,22,19,"1,804",20,1,2,3,1,0,0,4,0,0.05,0.1,0.15,0.05,0.15,Matches
+297,Tondonba Singh,inIND,DF,NorthEast Utd,29,1994,11,4,436,4.8,0,1,1,0,0,0,0,0,0,0.21,0.21,0,0.21,Matches
+298,Udanta Singh,inIND,"MF,DF",Goa,28,1996,17,13,"1,161",12.9,3,3,6,3,0,0,2,0,0.23,0.23,0.47,0.23,0.47,Matches
+299,Vikram Singh,inIND,"FW,MF",Mumbai City,22,2002,20,17,"1,374",15.3,1,0,1,1,0,0,6,1,0.07,0,0.07,0.07,0.07,Matches
+300,Siverio,esESP,FW,Jamshedpur,26,1997,23,15,"1,463",16.3,6,0,6,5,1,1,5,0,0.37,0,0.37,0.31,0.31,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,MP,Starts,Min,90s,Gls,Ast,G+A,G-PK,PK,PKatt,CrdY,CrdR,Gls,Ast,G+A,G-PK,G+A-PK,Matches
+301,Sourav,inIND,MF,Hyderabad FC,23,2001,12,2,357,4,1,1,2,1,0,0,0,0,0.25,0.25,0.5,0.25,0.5,Matches
+302,Sanjeev Stalin,inIND,MF,Mumbai City,23,2001,2,0,26,0.3,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+303,Greg Stewart,sctSCO,MF,Mohun Bagan,34,1990,18,11,"1,014",11.3,2,5,7,2,0,0,4,0,0.18,0.44,0.62,0.18,0.62,Matches
+304,Nihal Sudeesh,inIND,"FW,MF",Punjab,23,2001,20,12,"1,072",11.9,1,2,3,1,0,0,3,0,0.08,0.17,0.25,0.08,0.25,Matches
+305,Muhammad Suhail,inIND,"MF,FW",Punjab,17,2006,13,9,665,7.4,0,1,1,0,0,0,1,0,0,0.14,0.14,0,0.14,Matches
+306,Asmir Suljić,baBIH,"MF,FW",Punjab,32,1991,23,13,"1,219",13.5,4,4,8,3,1,1,4,0,0.3,0.3,0.59,0.22,0.52,Matches
+307,Parthib Sundar Gogoi,inIND,"MF,FW",NorthEast Utd,21,2003,21,8,729,8.1,2,3,5,2,0,0,1,0,0.25,0.37,0.62,0.25,0.62,Matches
+308,Joseph Sunny,inIND,"MF,FW",Hyderabad FC,20,2003,13,9,722,8,2,0,2,2,0,0,2,0,0.25,0,0.25,0.25,0.25,Matches
+309,Sachin Suresh,inIND,GK,Kerala Blasters,23,2001,16,16,"1,440",16,0,0,0,0,0,0,2,0,0,0,0,0,0,Matches
+310,Edwin Sydney Vanspaul,inIND,"DF,MF",Chennaiyin,31,1992,1,0,12,0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+311,Rei Tachikawa,jpJPN,MF,Jamshedpur,26,1998,24,15,"1,248",13.9,3,3,6,3,0,0,2,0,0.22,0.22,0.43,0.22,0.43,Matches
+312,Madih Talal,frFRA,"MF,FW",East Bengal,26,1997,10,9,741,8.2,1,1,2,0,1,1,1,0,0.12,0.12,0.24,0,0.12,Matches
+313,Nim Tamang,inIND,DF,Goa,28,1995,8,5,389,4.3,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches
+314,Deepak Tangri,inIND,MF,Mohun Bagan,25,1999,17,11,974,10.8,0,0,0,0,0,0,4,0,0,0,0,0,0,Matches
+315,Sahil Tavora,inIND,MF,Goa,28,1995,20,10,"1,098",12.2,1,1,2,1,0,0,4,0,0.08,0.08,0.16,0.08,0.16,Matches
+316,Anirudh Thapa,inIND,MF,Mohun Bagan,26,1998,15,8,757,8.4,0,2,2,0,0,0,2,0,0,0.24,0.24,0,0.24,Matches
+317,Tiri,esESP,DF,Mumbai City,33,1991,21,21,"1,853",20.6,1,2,3,1,0,0,4,0,0.05,0.1,0.15,0.05,0.15,Matches
+318,Hrithik Tiwari,inIND,GK,Goa,22,2002,17,17,"1,530",17,0,0,0,0,0,0,2,0,0,0,0,0,0,Matches
+319,Jesin TK,inIND,FW,East Bengal,24,2000,4,1,110,1.2,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+320,Redeem Tlang,inIND,DF,NorthEast Utd,29,1995,16,12,"1,164",12.9,0,0,0,0,0,0,2,0,0,0,0,0,0,Matches
+321,Jon Toral,esESP,MF,Mumbai City,29,1995,16,12,996,11.1,1,0,1,1,0,0,1,0,0.09,0,0.09,0.09,0.09,Matches
+322,Rehenesh TP,inIND,GK,Mumbai City,31,1993,7,6,506,5.6,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+323,Muhammed Uvais,inIND,DF,Jamshedpur,26,1998,24,24,"2,159",24,1,1,2,1,0,0,2,0,0.04,0.04,0.08,0.04,0.08,Matches
+324,Sreekuttan V.S.,inIND,FW,Jamshedpur,25,1998,1,0,18,0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+325,Aron Vanlalrinchhana,inIND,MF,Hyderabad FC,20,2004,1,0,21,0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,MP,Starts,Min,90s,Gls,Ast,G+A,G-PK,PK,PKatt,CrdY,CrdR,Gls,Ast,G+A,G-PK,G+A-PK,Matches
+326,Isak Vanlalruatfela,inIND,"MF,FW",Odisha,23,2001,20,19,"1,634",18.2,3,5,8,3,0,0,1,0,0.17,0.28,0.44,0.17,0.44,Matches
+327,Vanlalzuidika,inIND,DF,Mohammedan,26,1998,22,22,"1,911",21.2,0,0,0,0,0,0,4,0,0,0,0,0,0,Matches
+328,Isaac Vanmalsawma,inIND,MF,Hyderabad FC,27,1996,18,14,"1,199",13.3,0,1,1,0,0,0,1,0,0,0.08,0.08,0,0.08,Matches
+329,Soham Varshneya,inIND,MF,Bengaluru,19,2004,1,0,7,0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+330,Vinith Venkatesh,inIND,"FW,MF",Bengaluru,19,2005,16,7,529,5.9,1,2,3,1,0,0,2,0,0.17,0.34,0.51,0.17,0.51,Matches
+331,Ezequiel Vidal,arARG,"MF,FW",Punjab,28,1995,22,20,"1,590",17.7,7,3,10,7,0,0,6,1,0.4,0.17,0.57,0.4,0.57,Matches
+332,Prachit Vishwas,inIND,MF,Goa,18,2006,1,0,9,0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+333,Ryan Williams,auAUS,FW,Bengaluru,30,1993,17,13,"1,238",13.8,4,3,7,4,0,0,3,0,0.29,0.22,0.51,0.29,0.51,Matches
+334,Robin Yadav,inIND,DF,NorthEast Utd,22,2001,5,1,177,2,0,0,0,0,0,0,2,1,0,0,0,0,0,Matches
+335,Vishal Yadav,inIND,MF,Punjab,16,2008,1,0,11,0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+336,Irfan Yadwad,inIND,"MF,FW",Chennaiyin,23,2001,23,23,"1,863",20.7,4,4,8,4,0,0,3,0,0.19,0.19,0.39,0.19,0.39,Matches
+337,Bikash Yumnam,inIND,DF,Kerala Blasters,20,2003,3,0,38,0.4,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches
+338,Bikash Yumnam,inIND,DF,Chennaiyin,20,2003,10,9,764,8.5,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches
+339,Héctor Yuste,esESP,DF,East Bengal,36,1988,18,16,"1,352",15,0,1,1,0,0,0,4,0,0,0.07,0.07,0,0.07,Matches
+340,Míchel Zabaco,esESP,DF,NorthEast Utd,35,1989,21,21,"1,890",21,0,1,1,0,0,0,4,0,0,0.05,0.05,0,0.05,Matches
+341,Joe Zoherliana,inIND,DF,Mohammedan,25,1999,15,15,"1,350",15,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches
+342,Jeremy Zohminghlua,inIND,DF,Odisha,19,2004,1,0,9,0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches

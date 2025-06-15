@@ -1,0 +1,353 @@
+﻿Rk,Player,Nation,Position,Squad,Current age,Year of birth,Matches Played,Starts,Minutes,90s Played,Goals,Assists,Goals + Assists,Non-Penalty Goals,Penalty Kicks Made,Penalty Kicks Attempted,Yellow Cards,Red Cards,Goals/90,Assists/90,Goals + Assists/90,Non-Penalty Goals/90,Non-Penalty Goals + Assists/90,Matches
+1,Leroy Abanda,frFRA,MF,Suwon FC,25-008,2000,5,3,170,1.9,0,1,1,0,0,0,0,0,0,0.53,0.53,0,0.53,Matches
+2,Bismark Adjei-Boateng,ghGHA,MF,Jeonbuk Hyundai,31-036,1994,4,2,202,2.2,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches
+3,Anderson,brBRA,"MF,FW",Suwon FC,26-334,1998,18,16,"1,555",17.3,5,5,10,5,0,1,0,0,0.29,0.29,0.58,0.29,0.58,Matches
+4,Yazan Al Arab,joJOR,DF,FC Seoul,29-135,1996,17,17,"1,530",17,1,1,2,1,0,0,2,0,0.06,0.06,0.12,0.06,0.12,Matches
+5,Jasir Asani,alALB,"MF,FW",Gwangju FC,30-027,1995,15,10,"1,025",11.4,4,0,4,3,1,2,1,0,0.35,0,0.35,0.26,0.26,Matches
+6,Jonathan Aspropotamitis,auAUS,DF,Pohang,29-008,1996,4,2,209,2.3,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+7,Romário Baldé,gwGNB,"FW,MF",Gangwon,28-172,1996,1,0,10,0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+8,Yoon Bit-garam,krKOR,MF,Suwon FC,35-039,1990,7,6,585,6.5,1,0,1,1,0,0,1,0,0.15,0,0.15,0.15,0.15,Matches
+9,Kim Bo-kyung,krKOR,"MF,FW",FC Anyang,35-252,1989,7,3,305,3.4,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+10,Victor Bobsin,brBRA,MF,Daejeon Citizen FC,25-154,2000,13,12,"1,125",12.5,1,0,1,1,0,0,3,0,0.08,0,0.08,0.08,0.08,Matches
+11,Darijan Bojanić,seSWE,MF,Ulsan HD,30-169,1994,10,8,776,8.6,2,2,4,2,0,0,0,0,0.23,0.23,0.46,0.23,0.46,Matches
+12,Kim Bongsoo,krKOR,MF,Sangju Sangmu,25-171,1999,15,15,"1,349",15,0,2,2,0,0,0,0,0,0,0.13,0.13,0,0.13,Matches
+13,Goo Booncheul,krKOR,MF,Gangwon,25-247,1999,9,9,555,6.2,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+14,Song Bumkeun,krKOR,GK,Jeonbuk Hyundai,27-243,1997,18,18,"1,620",18,0,0,0,0,0,0,3,0,0,0,0,0,0,Matches
+15,Hwang Byeonggeun,krKOR,GK,FC Anyang,31-001,1994,4,3,277,3.1,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+16,Jeon Byeonggwan,krKOR,MF,Sangju Sangmu,22-217,2002,1,0,40,0.4,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+17,Jeon Byeonggwan,krKOR,"FW,MF",Jeonbuk Hyundai,22-217,2002,7,5,430,4.8,1,2,3,1,0,0,1,0,0.21,0.42,0.63,0.21,0.63,Matches
+18,Choe Byunchan,krKOR,"FW,MF",Gangwon,29-072,1996,10,7,431,4.8,1,0,1,1,0,0,1,0,0.21,0,0.21,0.21,0.21,Matches
+19,Choi Byungwook,krKOR,FW,Jeju United FC,20-065,2005,14,2,293,3.3,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+20,Aaron Calver,auAUS,DF,Daejeon Citizen FC,29-154,1996,1,0,45,0.5,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+21,Yago Cariello,brBRA,FW,Ulsan HD,25-323,1999,5,2,153,1.7,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+22,Yago César,brBRA,"MF,FW",FC Anyang,28-020,1997,16,4,673,7.5,1,5,6,1,0,1,0,0,0.13,0.67,0.8,0.13,0.8,Matches
+23,Cesinha,brBRA,"MF,FW",Daegu,35-198,1989,9,8,762,8.5,2,3,5,2,0,0,3,0,0.24,0.35,0.59,0.24,0.59,Matches
+24,Lim Chaimin,krKOR,DF,Jeju United FC,34-209,1990,13,11,987,11,0,0,0,0,0,0,3,1,0,0,0,0,0,Matches
+25,Kim Chan,krKOR,FW,Sangju Sangmu,25-051,2000,1,0,17,0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,MP,Starts,Min,90s,Gls,Ast,G+A,G-PK,PK,PKatt,CrdY,CrdR,Gls,Ast,G+A,G-PK,G+A-PK,Matches
+26,Lee Chan-dong,krKOR,"MF,DF",Daegu,32-156,1993,12,4,505,5.6,0,1,1,0,0,0,3,0,0,0.18,0.18,0,0.18,Matches
+27,Han Chan-hee,krKOR,MF,Pohang,28-090,1997,9,3,384,4.3,0,2,2,0,0,0,1,0,0,0.47,0.47,0,0.47,Matches
+28,Park Chan-yong,krKOR,DF,Sangju Sangmu,29-139,1996,18,17,"1,538",17.1,0,1,1,0,0,0,0,0,0,0.06,0.06,0,0.06,Matches
+29,Kwon Chang-hoon,krKOR,"FW,MF",Jeonbuk Hyundai,30-350,1994,7,0,164,1.8,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+30,Lee Chang-keun,krKOR,GK,Daejeon Citizen FC,31-289,1993,18,18,"1,620",18,0,0,0,0,0,0,3,0,0,0,0,0,0,Matches
+31,Lee Chang-min,krKOR,MF,Jeju United FC,31-146,1994,14,13,"1,111",12.3,1,2,3,1,0,0,1,0,0.08,0.16,0.24,0.08,0.24,Matches
+32,Sin Chang-moo,krKOR,"MF,FW",Gwangju FC,32-271,1992,5,2,152,1.7,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+33,Ha Chang-rae,krKOR,DF,Daejeon Citizen FC,30-242,1994,12,12,"1,047",11.6,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches
+34,Rim Chang-woo,krKOR,"DF,MF",Jeju United FC,33-122,1992,7,5,431,4.8,0,1,1,0,0,0,1,0,0,0.21,0.21,0,0.21,Matches
+35,Lee Chang-yong,krKOR,DF,FC Anyang,34-292,1990,19,17,"1,576",17.5,0,0,0,0,0,0,2,0,0,0,0,0,0,Matches
+36,An Changi,krKOR,GK,Jeju United FC,27-070,1998,4,3,282,3.1,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches
+37,Lee Changwoo,krKOR,MF,Pohang,19-095,2006,4,2,131,1.5,0,1,1,0,0,0,0,0,0,0.69,0.69,0,0.69,Matches
+38,Park Cheolwoo,krKOR,"DF,FW",Suwon FC,27-237,1997,4,3,284,3.2,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+39,Jung Chiin,krKOR,"FW,MF",Daegu,27-298,1997,14,9,896,10,2,0,2,2,0,0,3,0,0.2,0,0.2,0.2,0.2,Matches
+40,Choi Chiung,krKOR,FW,Suwon FC,23-326,2001,6,1,116,1.3,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches
+41,Hong Chul,krKOR,DF,Gangwon,34-271,1990,12,8,636,7.1,0,0,0,0,0,0,2,0,0,0,0,0,0,Matches
+42,Choi Chul-soon,krKOR,DF,Jeonbuk Hyundai,38-127,1987,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+43,Lee Chung-yong,krKOR,"MF,FW",Ulsan HD,36-348,1988,15,10,780,8.7,2,1,3,2,0,0,0,0,0.23,0.12,0.35,0.23,0.35,Matches
+44,Andrea Compagno,itITA,FW,Jeonbuk Hyundai,29-054,1996,12,11,861,9.6,5,1,6,4,1,1,3,0,0.52,0.1,0.63,0.42,0.52,Matches
+45,Mario Čuže,hrCRO,MF,Gangwon,26-052,1999,2,0,36,0.4,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+46,Kim Da-sol,krKOR,GK,FC Anyang,36-162,1989,16,16,"1,432",15.9,0,0,0,0,0,0,1,1,0,0,0,0,0,Matches
+47,Park Daehoon,krKOR,FW,Daegu,29-077,1996,12,6,515,5.7,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+48,Kim Daewon,krKOR,MF,Sangju Sangmu,28-125,1997,11,1,312,3.5,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+49,Park Daewon,krKOR,DF,Sangju Sangmu,27-110,1998,3,0,53,0.6,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+50,Kim Daewoo,krKOR,MF,Gangwon,24-195,2000,11,10,871,9.7,0,0,0,0,0,0,2,0,0,0,0,0,0,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,MP,Starts,Min,90s,Gls,Ast,G+A,G-PK,PK,PKatt,CrdY,CrdR,Gls,Ast,G+A,G-PK,G+A-PK,Matches
+51,Denilson,brBRA,FW,Jeju United FC,24-265,2000,4,0,105,1.2,1,0,1,1,0,0,0,0,0.86,0,0.86,0.86,0.86,Matches
+52,Luan Dias,brBRA,"MF,FW",Suwon FC,27-319,1997,15,14,"1,179",13.1,1,0,1,1,0,0,4,0,0.08,0,0.08,0.08,0.08,Matches
+53,Kim Dohyun,krKOR,MF,Gangwon,21-034,2004,8,1,132,1.5,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+54,Kim Dong-jin,krKOR,DF,FC Anyang,32-169,1992,5,4,360,4,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches
+55,Park Dong-jin,krKOR,"FW,MF",Jeju United FC,30-187,1994,9,5,343,3.8,0,0,0,0,0,1,2,0,0,0,0,0,0,Matches
+56,Kim Dong-jun,krKOR,GK,Jeju United FC,30-178,1994,15,15,"1,338",14.9,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+57,Ji Dong-won,krKOR,FW,Suwon FC,34-018,1991,7,4,332,3.7,0,1,1,0,0,0,0,0,0,0.27,0.27,0,0.27,Matches
+58,Lee Donggyeong,krKOR,"FW,MF",Sangju Sangmu,27-268,1997,18,16,"1,424",15.8,6,4,10,6,0,0,1,0,0.38,0.25,0.63,0.38,0.63,Matches
+59,Lee Donghee,krKOR,DF,Pohang,25-128,2000,3,3,270,3,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches
+60,Kim Dongheon,krKOR,GK,Sangju Sangmu,28-104,1997,17,17,"1,530",17,0,0,0,0,0,0,2,0,0,0,0,0,0,Matches
+61,Kim Donghwa,krKOR,GK,Gwangju FC,22-039,2003,1,1,90,1,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+62,Lee Donghyeop,krKOR,DF,Pohang,22-095,2003,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+63,Kim Donghyun,krKOR,MF,Gangwon,28-004,1997,15,11,929,10.3,1,0,1,0,1,1,1,0,0.1,0,0.1,0,0,Matches
+64,Kim Dongjin,krKOR,MF,Pohang,21-320,2003,8,8,557,6.2,0,1,1,0,0,0,0,0,0,0.16,0.16,0,0.16,Matches
+65,Lee Dongjun,krKOR,MF,Sangju Sangmu,28-134,1997,17,4,616,6.8,3,2,5,3,0,0,1,0,0.44,0.29,0.73,0.44,0.73,Matches
+66,Kwon Doyeong,krKOR,MF,Suwon FC,22-102,2003,1,1,45,0.5,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+67,Yoon Doyong,krKOR,"MF,FW",Daejeon Citizen FC,18-230,2006,11,11,560,6.2,0,1,1,0,0,0,0,0,0,0.16,0.16,0,0.16,Matches
+68,Kim Doyoon,krKOR,"MF,FW",Suwon FC,20-028,2005,4,3,128,1.4,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+69,Hwang Doyun,krKOR,MF,FC Seoul,22-067,2003,16,15,"1,114",12.4,0,1,1,0,0,0,1,0,0,0.08,0.08,0,0.08,Matches
+70,Marko Dugandžić,hrCRO,FW,FC Seoul,31-069,1994,13,5,523,5.8,2,0,2,2,0,0,0,0,0.34,0,0.34,0.34,0.34,Matches
+71,Lim Dugkeun,krKOR,MF,Daejeon Citizen FC,25-110,2000,3,3,188,2.1,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+72,Edgar,brBRA,FW,Daegu,38-163,1987,15,6,763,8.5,2,0,2,2,0,0,2,0,0.24,0,0.24,0.24,0.24,Matches
+73,Eduardo,brBRA,"MF,FW",FC Anyang,28-157,1997,15,9,782,8.7,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches
+74,Erick,brBRA,FW,Ulsan HD,28-163,1997,14,10,"1,010",11.2,8,0,8,5,3,3,2,0,0.71,0,0.71,0.45,0.45,Matches
+75,Vitor Gabriel,brBRA,FW,Gangwon,25-146,2000,14,8,834,9.3,3,1,4,3,0,0,2,0,0.32,0.11,0.43,0.32,0.43,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,MP,Starts,Min,90s,Gls,Ast,G+A,G-PK,PK,PKatt,CrdY,CrdR,Gls,Ast,G+A,G-PK,G+A-PK,Matches
+76,Kim Gangsan,krKOR,DF,Sangju Sangmu,26-273,1998,4,3,272,3,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches
+77,Samuel Gbato,ciCIV,MF,FC Seoul,18-318,2006,2,1,46,0.5,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+78,Choi Geonju,krKOR,"FW,MF",Daejeon Citizen FC,25-354,1999,12,12,780,8.7,3,0,3,3,0,0,2,0,0.35,0,0.35,0.35,0.35,Matches
+79,Lee Gihyuk,krKOR,DF,Gangwon,24-343,2000,18,17,"1,590",17.7,0,1,1,0,0,0,2,0,0,0.06,0.06,0,0.06,Matches
+80,Kim Gun-hee,krKOR,FW,Gangwon,30-113,1995,1,0,23,0.3,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+81,Vladislavs Gutkovskis,lvLVA,FW,Daejeon Citizen FC,30-074,1995,14,3,343,3.8,2,0,2,1,1,1,1,0,0.52,0,0.52,0.26,0.26,Matches
+82,Lee Gwangyeon,krKOR,GK,Gangwon,25-277,1999,18,18,"1,620",18,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches
+83,Kim Gyeongjoon,krKOR,FW,Sangju Sangmu,28-257,1996,3,0,98,1.1,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+84,Kim Gyeonmin,krKOR,MF,Gangwon,28-144,1997,13,8,760,8.4,1,0,1,1,0,0,1,1,0.12,0,0.12,0.12,0.12,Matches
+85,Lee Gyubaek,krKOR,DF,Pohang,21-125,2004,1,0,18,0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+86,Choi Gyuhyeon,krKOR,MF,FC Anyang,24-269,2000,12,6,598,6.6,2,0,2,2,0,0,0,0,0.3,0,0.3,0.3,0.3,Matches
+87,Lee Gyumin,krKOR,FW,Pohang,19-260,2005,1,0,13,0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+88,Lee Han-do,krKOR,DF,FC Seoul,31-091,1994,1,0,5,0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+89,Kim Hangil,krKOR,"DF,MF",Gwangju FC,29-359,1995,13,8,753,8.4,0,0,0,0,0,0,3,0,0,0,0,0,0,Matches
+90,Jung Hanmin,krKOR,FW,FC Seoul,24-158,2001,5,4,272,3,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+91,Choi Hansol,krKOR,DF,Gangwon,28-091,1997,5,2,220,2.4,0,0,0,0,0,0,2,0,0,0,0,0,0,Matches
+92,Roh Heedong,krKOR,GK,Gwangju FC,23-012,2002,1,0,35,0.4,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+93,Lee Heonjae,krKOR,FW,Pohang,19-084,2006,2,0,10,0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+94,Hernandes,brBRA,FW,Jeonbuk Hyundai,25-286,1999,3,1,91,1,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches
+95,Lee Hojae,krKOR,FW,Pohang,24-244,2000,17,16,"1,400",15.6,8,1,9,5,3,4,1,0,0.51,0.06,0.58,0.32,0.39,Matches
+96,Park Hoyoung,krKOR,DF,Gangwon,26-069,1999,5,0,104,1.2,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches
+97,Lee Huigyun,krKOR,MF,Ulsan HD,27-047,1998,15,6,602,6.7,1,1,2,1,0,0,1,0,0.15,0.15,0.3,0.15,0.3,Matches
+98,Kang Huisu,krKOR,MF,Gwangju FC,22-110,2003,11,4,261,2.9,1,0,1,1,0,0,2,0,0.34,0,0.34,0.34,0.34,Matches
+99,Oh Huseong,krKOR,MF,Gwangju FC,25-294,1999,17,8,"1,042",11.6,3,2,5,2,1,1,1,0,0.26,0.17,0.43,0.17,0.35,Matches
+100,Ahn Hyeon-beom,krKOR,"DF,FW",Jeonbuk Hyundai,30-176,1994,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,MP,Starts,Min,90s,Gls,Ast,G+A,G-PK,PK,PKatt,CrdY,CrdR,Gls,Ast,G+A,G-PK,G+A-PK,Matches
+101,Kang Hyeon-mu,krKOR,GK,FC Seoul,30-094,1995,18,18,"1,620",18,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches
+102,Jo Hyeon-woo,krKOR,GK,Ulsan HD,33-263,1991,15,15,"1,350",15,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+103,Joo Hyeon-woo,krKOR,"MF,DF",FC Anyang,34-276,1990,6,6,395,4.4,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+104,Kim Hyeondeok,krKOR,DF,FC Seoul,20-222,2004,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+105,Kim Hyeongug,krKOR,"MF,FW",Daejeon Citizen FC,29-358,1995,16,8,948,10.5,1,3,4,0,1,1,2,0,0.09,0.28,0.38,0,0.28,Matches
+106,Kang Hyeonje,krKOR,"MF,FW",Pohang,22-288,2002,10,2,290,3.2,1,1,2,1,0,0,0,0,0.31,0.31,0.62,0.31,0.62,Matches
+107,Kim Hyeonjun,krKOR,DF,Daegu,22-335,2002,8,8,702,7.8,1,1,2,1,0,0,1,0,0.13,0.13,0.26,0.13,0.26,Matches
+108,Kim Hyeonoh,krKOR,"MF,FW",Daejeon Citizen FC,17-276,2007,5,5,200,2.2,1,0,1,1,0,0,0,0,0.45,0,0.45,0.45,0.45,Matches
+109,Han Hyeonseo,krKOR,DF,Pohang,21-164,2004,13,13,"1,170",13,0,1,1,0,0,0,1,0,0,0.08,0.08,0,0.08,Matches
+110,Lee Hyeonyong,krKOR,DF,Suwon FC,21-168,2003,15,14,"1,277",14.2,1,0,1,1,0,0,1,0,0.07,0,0.07,0.07,0.07,Matches
+111,Cho Hyuntaek,krKOR,DF,Sangju Sangmu,23-317,2001,18,9,"1,221",13.6,1,2,3,1,0,0,1,0,0.07,0.15,0.22,0.07,0.22,Matches
+112,Chae Hyunwoo,krKOR,MF,FC Anyang,20-300,2004,18,14,908,10.1,2,0,2,2,0,0,2,0,0.2,0,0.2,0.2,0.2,Matches
+113,Kim Hyunwoo,krKOR,DF,Daejeon Citizen FC,26-100,1999,9,6,584,6.5,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+114,Yun Il-lok,krKOR,"MF,DF",Gangwon,33-100,1992,3,2,129,1.4,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+115,Park In-hyeok,krKOR,FW,Gwangju FC,29-168,1995,16,8,761,8.5,1,0,1,1,0,0,2,0,0.12,0,0.12,0.12,0.12,Matches
+116,Oh In-pyo,krKOR,MF,Sangju Sangmu,28-089,1997,1,0,30,0.3,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+117,Yu In-soo,krKOR,"FW,MF",Jeju United FC,30-169,1994,18,15,"1,377",15.3,4,1,5,4,0,0,2,0,0.26,0.07,0.33,0.26,0.33,Matches
+118,Kim In-sung,krKOR,"MF,FW",Pohang,35-279,1989,16,6,687,7.6,2,2,4,2,0,0,0,0,0.26,0.26,0.52,0.26,0.52,Matches
+119,Kim Ingyun,krKOR,FW,Daejeon Citizen FC,26-327,1998,12,0,390,4.3,2,1,3,2,0,0,3,0,0.46,0.23,0.69,0.46,0.69,Matches
+120,Hwang Injae,krKOR,GK,Pohang,31-054,1994,17,17,"1,530",17,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+121,Hwang Intaek,krKOR,DF,Suwon FC,22-075,2003,4,1,81,0.9,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+122,Masatoshi Ishida,jpJPN,"FW,MF",Daejeon Citizen FC,30-042,1995,9,8,535,5.9,1,2,3,1,0,0,0,0,0.17,0.34,0.5,0.17,0.5,Matches
+123,Italo,brBRA,"MF,DF",Jeju United FC,27-316,1997,16,12,"1,099",12.2,1,0,1,1,0,0,4,0,0.08,0,0.08,0.08,0.08,Matches
+124,Jeong Jae-hee,krKOR,MF,Daejeon Citizen FC,31-048,1994,11,0,425,4.7,1,2,3,1,0,0,0,0,0.21,0.42,0.64,0.21,0.64,Matches
+125,Ryu Jae-moon,krKOR,MF,FC Seoul,31-219,1993,7,6,444,4.9,0,0,0,0,0,0,2,0,0,0,0,0,0,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,MP,Starts,Min,90s,Gls,Ast,G+A,G-PK,PK,PKatt,CrdY,CrdR,Gls,Ast,G+A,G-PK,G+A-PK,Matches
+126,Oh Jae-suk,krKOR,DF,Daejeon Citizen FC,35-162,1990,11,7,641,7.1,0,1,1,0,0,0,1,0,0,0.14,0.14,0,0.14,Matches
+127,Kim Jae-woo,krKOR,DF,Jeju United FC,27-129,1998,5,0,19,0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+128,Cho Jaehun,krKOR,FW,Pohang,21-351,2003,2,2,68,0.8,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+129,Hwang Jaehwan,krKOR,MF,Gwangju FC,24-064,2001,2,0,36,0.4,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+130,Oh Jaehyeok,krKOR,MF,Jeju United FC,22-359,2002,13,3,432,4.8,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches
+131,Go Jaehyeon,krKOR,FW,Daegu,26-102,1999,5,1,184,2,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+132,Mo Jaehyeon,krKOR,MF,Sangju Sangmu,28-264,1996,13,11,768,8.5,1,0,1,1,0,0,1,0,0.12,0,0.12,0.12,0.12,Matches
+133,Park Jaehyun,krKOR,MF,Daegu,21-272,2003,7,1,120,1.3,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+134,Lee Jaeik,krKOR,DF,Ulsan HD,26-025,1999,5,1,154,1.7,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+135,An Jaejun,krKOR,MF,Pohang,24-073,2001,1,1,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+136,Seo Jaemin,krKOR,"DF,MF",Suwon FC,27-193,1997,14,11,911,10.1,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+137,Jung Jaesang,krKOR,FW,Daegu,21-021,2004,14,9,669,7.4,1,0,1,1,0,0,0,0,0.13,0,0.13,0.13,0.13,Matches
+138,Yoon Jaeseok,krKOR,"MF,FW",Ulsan HD,21-236,2003,16,14,634,7,1,0,1,1,0,0,2,0,0.14,0,0.14,0.14,0.14,Matches
+139,Kim Jaesung,krKOR,MF,Suwon FC,25-335,1999,13,5,549,6.1,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+140,Hwang Jaewon,krKOR,"DF,MF",Daegu,22-303,2002,18,18,"1,620",18,0,2,2,0,0,0,1,0,0,0.11,0.11,0,0.11,Matches
+141,Lee Jaewon,krKOR,MF,Suwon FC,28-114,1997,16,14,"1,251",13.9,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches
+142,Bak Jaeyong,krKOR,FW,Jeonbuk Hyundai,25-094,2000,7,3,219,2.4,1,0,1,1,0,0,0,0,0.41,0,0.41,0.41,0.41,Matches
+143,Yeon Je-woon,krKOR,DF,Jeonbuk Hyundai,30-291,1994,13,4,424,4.7,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+144,Hong Jeong-ho,krKOR,DF,Jeonbuk Hyundai,35-307,1989,13,12,"1,061",11.8,0,1,1,0,0,0,3,0,0,0.08,0.08,0,0.08,Matches
+145,Kim Jeong-Hyun,krKOR,MF,FC Anyang,32-014,1993,15,14,"1,208",13.4,0,0,0,0,0,0,5,0,0,0,0,0,0,Matches
+146,Park Jeonghun,krKOR,"MF,FW",FC Anyang,20-298,2004,5,3,157,1.7,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+147,Kim Jeonghyun,krKOR,"MF,FW",Daegu,25-006,2000,9,5,482,5.4,0,1,1,0,0,0,2,0,0,0.19,0.19,0,0.19,Matches
+148,Park Jeongin,krKOR,MF,Gwangju FC,24-251,2000,6,1,187,2.1,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches
+149,Eo Jeongwon,krKOR,DF,Pohang,25-342,1999,14,11,"1,079",12,1,0,1,1,0,0,1,0,0.08,0,0.08,0.08,0.08,Matches
+150,Lee Jiho,krKOR,"MF,FW",Gangwon,23-060,2002,16,10,"1,064",11.8,3,2,5,3,0,0,1,0,0.25,0.17,0.42,0.25,0.42,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,MP,Starts,Min,90s,Gls,Ast,G+A,G-PK,PK,PKatt,CrdY,CrdR,Gls,Ast,G+A,G-PK,G+A-PK,Matches
+151,Kang Jihoon,krKOR,"MF,DF",FC Anyang,28-160,1997,14,10,889,9.9,0,0,0,0,0,0,2,0,0,0,0,0,0,Matches
+152,Kim JiHoon,krKOR,DF,FC Anyang,20-244,2004,6,1,96,1.1,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches
+153,Joung Jihun,krKOR,MF,Gwangju FC,21-067,2004,6,4,181,2,0,0,0,0,0,0,2,0,0,0,0,0,0,Matches
+154,Kim Jin-hyuk,krKOR,DF,Daegu,32-012,1993,5,2,252,2.8,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+155,Lee Jin-hyun,krKOR,MF,Ulsan HD,27-293,1997,13,10,809,9,0,1,1,0,0,0,2,0,0,0.11,0.11,0,0.11,Matches
+156,Kim Jin-kyu,krKOR,MF,Jeonbuk Hyundai,28-111,1997,15,12,896,10,1,2,3,1,0,0,1,0,0.1,0.2,0.3,0.1,0.3,Matches
+157,Kim Jin-su,krKOR,DF,FC Seoul,33-002,1992,18,18,"1,620",18,0,2,2,0,0,0,4,0,0,0.11,0.11,0,0.11,Matches
+158,Kim Jin-ya,krKOR,"DF,MF",FC Seoul,26-350,1998,5,0,68,0.8,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+159,Kim Jinho,krKOR,DF,Gwangju FC,25-145,2000,13,12,995,11.1,0,0,0,0,0,0,4,0,0,0,0,0,0,Matches
+160,Kim Jinho,krKOR,"MF,FW",Jeju United FC,19-107,2006,4,2,114,1.3,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+161,Cho Jinhyuk,krKOR,MF,Gangwon,24-309,2000,4,1,164,1.8,2,0,2,2,0,0,1,0,1.1,0,1.1,1.1,1.1,Matches
+162,Park Jinseob,krKOR,"MF,DF",Jeonbuk Hyundai,29-235,1995,18,18,"1,575",17.5,2,1,3,2,0,0,5,0,0.11,0.06,0.17,0.11,0.17,Matches
+163,Park Jinseong,krKOR,"MF,DF",Daejeon Citizen FC,24-031,2001,7,6,545,6.1,0,1,1,0,0,0,1,0,0,0.17,0.17,0,0.17,Matches
+164,Seo Jinsu,krKOR,FW,Jeju United FC,24-240,2000,8,4,334,3.7,1,0,1,0,1,1,0,0,0.27,0,0.27,0,0,Matches
+165,Jeon Jinwoo,krKOR,FW,Jeonbuk Hyundai,25-279,1999,18,15,"1,340",14.9,12,2,14,12,0,0,4,0,0.81,0.13,0.94,0.81,0.94,Matches
+166,Park Jinyoung,krKOR,DF,Daegu,23-033,2002,14,13,"1,119",12.4,0,1,1,0,0,0,1,0,0,0.08,0.08,0,0.08,Matches
+167,Lee Jisol,krKOR,DF,Suwon FC,25-341,1999,13,11,998,11.1,0,0,0,0,0,0,2,0,0,0,0,0,0,Matches
+168,Yuri Jonathan,brBRA,"FW,MF",Jeju United FC,27-003,1998,14,7,797,8.9,5,0,5,4,1,2,2,0,0.56,0,0.56,0.45,0.45,Matches
+169,Lim Jong-eun,krKOR,DF,Daejeon Citizen FC,34-362,1990,9,6,584,6.5,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+170,Yoon Jong-gyu,krKOR,DF,Ulsan HD,27-087,1998,9,8,751,8.3,0,0,0,0,0,0,2,0,0,0,0,0,0,Matches
+171,Han Jongmu,krKOR,"MF,FW",Daegu,22-044,2003,18,12,996,11.1,0,1,1,0,0,0,2,0,0,0.09,0.09,0,0.09,Matches
+172,Kim Jongwoo,krKOR,"MF,FW",Pohang,31-257,1993,6,3,249,2.8,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches
+173,Kim JooGong,krKOR,FW,Jeju United FC,29-053,1996,7,2,247,2.7,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches
+174,Kim JooGong,krKOR,FW,Daegu,29-053,1996,1,1,89,1,1,0,1,1,0,0,0,0,1.01,0,1.01,1.01,1.01,Matches
+175,Lee Joohyun,krKOR,GK,Sangju Sangmu,26-191,1998,1,1,90,1,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,MP,Starts,Min,90s,Gls,Ast,G+A,G-PK,PK,PKatt,CrdY,CrdR,Gls,Ast,G+A,G-PK,G+A-PK,Matches
+176,Ahn Joon-soo,krKOR,GK,Suwon FC,27-138,1998,18,18,"1,620",18,0,0,0,0,0,0,3,0,0,0,0,0,0,Matches
+177,Kang Joonhyuck,krKOR,"DF,MF",Gangwon,25-238,1999,9,7,682,7.6,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches
+178,Lee JoonSuk,krKOR,MF,Suwon FC,25-069,2000,4,1,122,1.4,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+179,Song Ju-hun,krKOR,DF,Jeju United FC,31-153,1994,17,17,"1,510",16.8,0,1,1,0,0,0,1,0,0,0.06,0.06,0,0.06,Matches
+180,Kang Juhyeok,krKOR,MF,FC Seoul,18-292,2006,2,1,61,0.7,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+181,Choi Jun,krKOR,DF,FC Seoul,26-059,1999,18,18,"1,591",17.7,0,1,1,0,0,0,3,0,0,0.06,0.06,0,0.06,Matches
+182,Kim Junbum,krKOR,MF,Daejeon Citizen FC,27-152,1998,15,11,899,10,1,0,1,1,0,0,1,0,0.1,0,0.1,0.1,0.1,Matches
+183,Moon Jungin,krKOR,GK,Ulsan HD,27-091,1998,4,4,360,4,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+184,Lee Jungyu,krKOR,MF,Daejeon Citizen FC,21-315,2003,14,0,138,1.5,1,0,1,1,0,0,1,0,0.65,0,0.65,0.65,0.65,Matches
+185,Kim Junha,krKOR,"FW,MF",Jeju United FC,19-195,2005,17,14,926,10.3,3,1,4,3,0,0,1,0,0.29,0.1,0.39,0.29,0.39,Matches
+186,Jin Junseo,krKOR,MF,Gangwon,20-114,2005,2,1,17,0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+187,Byun Junsoo,krKOR,DF,Gwangju FC,23-197,2001,15,13,"1,226",13.6,1,2,3,1,0,0,3,0,0.07,0.15,0.22,0.07,0.22,Matches
+188,Song Junsuk,krKOR,DF,Gangwon,24-129,2001,7,4,488,5.4,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches
+189,Kim Jusung,krKOR,DF,FC Seoul,24-185,2000,18,18,"1,614",17.9,0,1,1,0,0,0,3,0,0,0.06,0.06,0,0.06,Matches
+190,Kim Juyeop,krKOR,"MF,FW",Suwon FC,25-071,2000,6,4,265,2.9,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+191,Kim Kangguk,krKOR,MF,Gangwon,28-159,1997,14,11,975,10.8,1,1,2,1,0,0,3,0,0.09,0.09,0.18,0.09,0.18,Matches
+192,Lee Kanghyun,krKOR,MF,Gwangju FC,26-319,1998,16,11,972,10.8,0,1,1,0,0,0,1,0,0,0.09,0.09,0,0.09,Matches
+193,Yu Kanghyun,krKOR,FW,Sangju Sangmu,29-049,1996,15,15,941,10.5,4,2,6,4,0,0,1,1,0.38,0.19,0.57,0.38,0.57,Matches
+194,Han Karam,krKOR,MF,FC Anyang,27-126,1998,2,1,81,0.9,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+195,Kelvin,brBRA,"FW,MF",Daejeon Citizen FC,27-301,1997,9,4,475,5.3,0,1,1,0,0,0,0,0,0,0.19,0.19,0,0.19,Matches
+196,Kim Keon-woong,krKOR,MF,Jeju United FC,27-290,1997,11,10,796,8.8,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches
+197,Won Kijong,krKOR,FW,Sangju Sangmu,29-160,1996,7,0,96,1.1,1,0,1,1,0,0,1,0,0.94,0,0.94,0.94,0.94,Matches
+198,Han Kook-young,krKOR,MF,Jeonbuk Hyundai,35-057,1990,10,5,511,5.7,0,0,0,0,0,0,2,1,0,0,0,0,0,Matches
+199,Franko Kovačević,hrCRO,FW,Gangwon,25-311,1999,12,5,437,4.9,1,0,1,1,0,0,1,0,0.21,0,0.21,0.21,0.21,Matches
+200,Anton Krivotsyuk,azAZE,DF,Daejeon Citizen FC,26-291,1998,12,12,"1,027",11.4,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,MP,Starts,Min,90s,Gls,Ast,G+A,G-PK,PK,PKatt,CrdY,CrdR,Gls,Ast,G+A,G-PK,G+A-PK,Matches
+201,Lee Kunhee,krKOR,FW,Jeju United FC,27-118,1998,6,3,312,3.5,2,1,3,2,0,0,2,0,0.58,0.29,0.87,0.58,0.87,Matches
+202,Shin Kwang-hoon,krKOR,"MF,DF",Pohang,38-089,1987,17,15,"1,160",12.9,0,0,0,0,0,0,2,0,0,0,0,0,0,Matches
+203,Kim Kyeong-min,krKOR,GK,Gwangju FC,33-226,1991,17,17,"1,495",16.6,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches
+204,Choi Kyoung-rok,krKOR,"MF,FW",Gwangju FC,30-092,1995,13,8,760,8.4,0,2,2,0,0,0,1,0,0,0.24,0.24,0,0.24,Matches
+205,Choi Kyu-baek,krKOR,DF,Suwon FC,31-143,1994,11,11,945,10.5,1,0,1,1,0,0,1,0,0.1,0,0.1,0.1,0.1,Matches
+206,Park Kyuhyun,krKOR,"DF,MF",Daejeon Citizen FC,24-062,2001,12,12,950,10.6,0,1,1,0,0,0,4,1,0,0.09,0.09,0,0.09,Matches
+207,Roh Kyungho,krKOR,MF,Suwon FC,24-345,2000,13,9,814,9,1,0,1,1,0,0,4,0,0.11,0,0.11,0.11,0.11,Matches
+208,Matías Lacava,veVEN,"MF,FW",Ulsan HD,22-234,2002,18,8,800,8.9,1,1,2,1,0,1,3,0,0.11,0.11,0.23,0.11,0.23,Matches
+209,Bruno Lamas,brBRA,"MF,FW",Daegu,31-063,1994,15,12,"1,122",12.5,4,1,5,2,2,2,2,0,0.32,0.08,0.4,0.16,0.24,Matches
+210,Rim Lee,krKOR,MF,Daegu,21-307,2003,3,3,208,2.3,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+211,Jesse Lingard,engENG,"MF,FW",FC Seoul,32-182,1992,18,16,"1,370",15.2,4,1,5,3,1,2,4,0,0.26,0.07,0.33,0.2,0.26,Matches
+212,Lucas,brBRA,MF,FC Seoul,25-292,1999,18,13,"1,164",12.9,3,1,4,3,0,0,0,0,0.23,0.08,0.31,0.23,0.31,Matches
+213,Gustav Ludwigson,seSWE,"DF,MF",Ulsan HD,31-238,1993,18,8,"1,065",11.8,1,2,3,1,0,0,0,0,0.08,0.17,0.25,0.08,0.25,Matches
+214,Jorge Luiz,brBRA,"FW,MF",Pohang,25-359,1999,17,8,"1,026",11.4,2,3,5,2,0,0,3,0,0.18,0.26,0.44,0.18,0.44,Matches
+215,Isabelle Mambingo,krKOR,"MF,DF",FC Anyang,34-066,1991,9,5,490,5.4,0,0,0,0,0,0,2,0,0,0,0,0,0,Matches
+216,Park Manho,krKOR,GK,Daegu,21-107,2004,2,2,180,2,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+217,Caio Marcelo,brBRA,DF,Daegu,27-093,1998,18,18,"1,620",18,3,1,4,3,0,0,2,0,0.17,0.06,0.22,0.17,0.22,Matches
+218,Jeon Min-gwang,krKOR,DF,Pohang,32-149,1993,18,18,"1,620",18,0,0,0,0,0,0,2,0,0,0,0,0,0,Matches
+219,Kim Min-hyeok,krKOR,MF,Ulsan HD,32-303,1992,9,5,513,5.7,0,0,0,0,0,0,6,1,0,0,0,0,0,Matches
+220,Lee Min-ki,krKOR,DF,Gwangju FC,32-027,1993,5,4,331,3.7,0,0,0,0,0,0,2,0,0,0,0,0,0,Matches
+221,Lee Min-soo,krKOR,MF,FC Anyang,33-155,1992,3,0,76,0.8,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+222,Kim Minduk,krKOR,DF,Sangju Sangmu,28-342,1996,7,6,461,5.1,0,0,0,0,0,0,2,0,0,0,0,0,0,Matches
+223,Jang Mingyu,krKOR,DF,Jeju United FC,26-101,1999,17,9,919,10.2,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches
+224,Shin Minha,krKOR,DF,Gangwon,19-273,2005,15,14,"1,210",13.4,1,0,1,1,0,0,0,0,0.07,0,0.07,0.07,0.07,Matches
+225,Kong Minhyu,kpPRK,FW,FC Anyang,35-147,1990,13,4,312,3.5,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,MP,Starts,Min,90s,Gls,Ast,G+A,G-PK,PK,PKatt,CrdY,CrdR,Gls,Ast,G+A,G-PK,G+A-PK,Matches
+226,Kim Minjoon,krKOR,FW,Daegu,18-345,2006,5,3,195,2.2,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+227,Kang Minjun,krKOR,"DF,MF",Pohang,22-068,2003,12,7,688,7.6,0,1,1,0,0,0,0,0,0,0.13,0.13,0,0.13,Matches
+228,Kim Minjun,krKOR,"MF,FW",Gangwon,25-123,2000,8,5,385,4.3,0,1,1,0,0,0,0,0,0,0.23,0.23,0,0.23,Matches
+229,Joo Minkyu,krKOR,FW,Daejeon Citizen FC,35-063,1990,18,14,"1,299",14.4,10,1,11,8,2,2,1,0,0.69,0.07,0.76,0.55,0.62,Matches
+230,Song Minkyu,krKOR,FW,Jeonbuk Hyundai,25-276,1999,16,15,"1,060",11.8,2,2,4,2,0,0,0,0,0.17,0.17,0.34,0.17,0.34,Matches
+231,Moon Minseo,krKOR,"MF,FW",Gwangju FC,21-117,2004,15,11,595,6.6,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches
+232,Park Minseo,krKOR,DF,Ulsan HD,24-273,2000,7,6,502,5.6,1,1,2,1,0,0,2,0,0.18,0.18,0.36,0.18,0.36,Matches
+233,Kang Minwoo,krKOR,DF,Ulsan HD,19-105,2006,6,3,231,2.6,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches
+234,Seo Minwoo,krKOR,MF,Sangju Sangmu,27-095,1998,15,15,"1,317",14.6,0,0,0,0,0,0,3,0,0,0,0,0,0,Matches
+235,Kim Moonhwan,krKOR,"DF,MF",Daejeon Citizen FC,29-318,1995,5,4,382,4.2,0,1,1,0,0,0,1,0,0,0.24,0.24,0,0.24,Matches
+236,Bruno Mota,brBRA,FW,FC Anyang,29-125,1996,19,15,"1,418",15.8,9,2,11,8,1,1,4,0,0.57,0.13,0.7,0.51,0.63,Matches
+237,Seo Myungguan,krKOR,DF,Ulsan HD,22-204,2002,12,11,937,10.4,1,0,1,1,0,0,2,0,0.1,0,0.1,0.1,0.1,Matches
+238,Oberdan,brBRA,MF,Pohang,29-320,1995,17,17,"1,477",16.4,5,0,5,5,0,0,3,0,0.3,0,0.3,0.3,0.3,Matches
+239,Mohamed Ofkir,noNOR,"MF,FW",Suwon FC,28-315,1996,10,2,390,4.3,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches
+240,Bruno Oliveira,brBRA,DF,Gwangju FC,29-006,1996,7,4,349,3.9,0,0,0,0,0,0,3,0,0,0,0,0,0,Matches
+241,Matheus Oliveira Santos,brBRA,"FW,MF",FC Anyang,27-260,1997,19,15,"1,384",15.4,6,1,7,6,0,0,3,0,0.39,0.07,0.46,0.39,0.46,Matches
+242,Tiago Orobó,brBRA,FW,Jeonbuk Hyundai,31-230,1993,12,4,526,5.8,4,3,7,4,0,0,4,0,0.68,0.51,1.2,0.68,1.2,Matches
+243,Thomas Oude Kotte,nlNED,DF,FC Anyang,29-087,1996,19,17,"1,554",17.3,1,1,2,1,0,0,3,0,0.06,0.06,0.12,0.06,0.12,Matches
+244,Yoon Pyungguk,krKOR,GK,Pohang,33-127,1992,1,1,90,1,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+245,Isnairo Reis,brBRA,"FW,MF",Gwangju FC,32-160,1993,17,17,"1,525",16.9,5,0,5,5,0,0,1,0,0.3,0,0.3,0.3,0.3,Matches
+246,Juninho Rocha,brBRA,MF,Pohang,27-222,1997,12,11,693,7.7,0,1,1,0,0,0,1,0,0,0.13,0.13,0,0.13,Matches
+247,Kim Ryunseong,krKOR,DF,Jeju United FC,23-011,2002,15,15,"1,248",13.9,0,1,1,0,0,0,3,1,0,0.07,0.07,0,0.07,Matches
+248,Pablo Sabbag,sySYR,FW,Suwon FC,28-004,1997,15,11,"1,030",11.4,4,0,4,4,0,0,2,0,0.35,0,0.35,0.35,0.35,Matches
+249,Choi San,krKOR,"MF,FW",Suwon FC,19-031,2006,2,2,69,0.8,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+250,Min Sang-gi,krKOR,DF,Gwangju FC,33-292,1991,6,5,452,5,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,MP,Starts,Min,90s,Gls,Ast,G+A,G-PK,PK,PKatt,CrdY,CrdR,Gls,Ast,G+A,G-PK,G+A-PK,Matches
+251,Lee Sang-heon,krKOR,FW,Gangwon,27-109,1998,16,12,"1,066",11.8,0,1,1,0,0,0,3,0,0,0.08,0.08,0,0.08,Matches
+252,Sim Sang-min,krKOR,DF,Gwangju FC,32-025,1993,1,0,23,0.3,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+253,Kang Sang-woo,krKOR,DF,Ulsan HD,31-251,1993,16,15,"1,292",14.4,1,1,2,1,0,0,2,0,0.07,0.07,0.14,0.07,0.14,Matches
+254,Cho Sanghyeok,krKOR,FW,Pohang,21-143,2004,13,2,450,5,2,0,2,2,0,0,0,0,0.4,0,0.4,0.4,0.4,Matches
+255,Park Sanghyeok,krKOR,FW,Sangju Sangmu,22-357,2002,17,3,580,6.4,6,1,7,6,0,0,2,0,0.93,0.16,1.09,0.93,1.09,Matches
+256,Shin Sangun,krKOR,"MF,FW",Daejeon Citizen FC,25-299,1999,6,4,254,2.8,1,0,1,1,0,0,0,0,0.35,0,0.35,0.35,0.35,Matches
+257,Kang Sangyoon,krKOR,MF,Jeonbuk Hyundai,21-015,2004,17,14,"1,229",13.7,0,2,2,0,0,0,1,0,0,0.15,0.15,0,0.15,Matches
+258,Ju Se-jong,krKOR,MF,Gwangju FC,34-228,1990,10,4,361,4,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches
+259,Park Sejin,krKOR,MF,Sangju Sangmu,21-088,2004,1,0,11,0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+260,Park Sejin,krKOR,FW,Daegu,21-088,2004,3,3,135,1.5,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+261,Hwang Seok-ho,krKOR,DF,Ulsan HD,35-353,1989,3,3,225,2.5,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+262,Choi Seokhyun,krKOR,DF,Ulsan HD,22-153,2003,13,5,432,4.8,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches
+263,Moon Seon-min,krKOR,MF,FC Seoul,33-006,1992,18,4,944,10.5,4,1,5,4,0,0,0,0,0.38,0.1,0.48,0.38,0.48,Matches
+264,Cho Seonggwon,krKOR,DF,Gwangju FC,24-111,2001,14,13,"1,189",13.2,1,0,1,1,0,0,5,0,0.08,0,0.08,0.08,0.08,Matches
+265,Park Seonghun,krKOR,DF,FC Seoul,22-139,2003,2,1,91,1,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches
+266,Kang Seongjin,krKOR,MF,FC Seoul,22-081,2003,5,1,124,1.4,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+267,Maeng Seongung,krKOR,MF,Sangju Sangmu,27-131,1998,3,1,106,1.2,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+268,Jang SeongWon,krKOR,"MF,DF",Daegu,27-363,1997,14,9,864,9.6,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+269,Moon Seongwoo,krKOR,MF,FC Anyang,22-031,2003,4,3,197,2.2,0,1,1,0,0,0,1,0,0,0.46,0.46,0,0.46,Matches
+270,Hwang Seoung,krKOR,FW,Pohang,20-144,2005,6,1,102,1.1,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches
+271,Oh Seung-hoon,krKOR,GK,Daegu,36-350,1988,10,10,900,10,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches
+272,Lee Seung-mo,krKOR,"MF,FW",FC Seoul,27-077,1998,13,6,680,7.6,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches
+273,Lee Seung-woo,krKOR,MF,Jeonbuk Hyundai,27-160,1998,10,4,385,4.3,0,1,1,0,0,0,1,0,0,0.23,0.23,0,0.23,Matches
+274,Jung Seungbae,krKOR,FW,Suwon FC,21-218,2003,7,0,90,1,1,0,1,1,0,0,0,0,1,0,1,1,1,Matches
+275,Ko Seungbeom,krKOR,MF,Ulsan HD,31-052,1994,14,14,"1,212",13.5,0,2,2,0,0,0,4,0,0,0.15,0.15,0,0.15,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,MP,Starts,Min,90s,Gls,Ast,G+A,G-PK,PK,PKatt,CrdY,CrdR,Gls,Ast,G+A,G-PK,G+A-PK,Matches
+276,Son Seungbeom,krKOR,MF,FC Seoul,21-042,2004,2,2,72,0.8,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches
+277,Kim Seungsub,krKOR,MF,Sangju Sangmu,28-226,1996,17,17,"1,200",13.3,2,1,3,2,0,0,0,0,0.15,0.07,0.23,0.15,0.23,Matches
+278,Ha Seungun,krKOR,"MF,DF",Gwangju FC,27-042,1998,5,2,232,2.6,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches
+279,Jeong Seungwon,krKOR,MF,FC Seoul,28-108,1997,15,15,"1,256",14,2,3,5,2,0,0,2,0,0.14,0.21,0.36,0.14,0.36,Matches
+280,Lee Seungwon,krKOR,"MF,FW",Sangju Sangmu,22-101,2003,18,10,755,8.4,0,3,3,0,0,0,2,0,0,0.36,0.36,0,0.36,Matches
+281,Park Seungwook,krKOR,DF,Sangju Sangmu,28-039,1997,16,15,"1,395",15.5,0,0,0,0,0,0,2,0,0,0,0,0,0,Matches
+282,Evandro da Silva,brBRA,FW,Jeju United FC,28-152,1997,3,2,112,1.2,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+283,Kim Sinjin,krKOR,FW,FC Seoul,23-337,2001,1,0,28,0.3,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+284,Jin Siwoo,krKOR,DF,Gwangju FC,22-314,2002,6,5,470,5.2,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches
+285,Jang Siyoung,krKOR,FW,Ulsan HD,23-076,2002,2,0,11,0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+286,Lee Siyoung,krKOR,MF,FC Seoul,28-055,1997,1,0,28,0.3,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches
+287,Park Sooil,krKOR,DF,Sangju Sangmu,29-113,1996,15,13,"1,170",13,1,1,2,1,0,0,1,0,0.08,0.08,0.15,0.08,0.15,Matches
+288,Park Sooil,krKOR,DF,FC Seoul,29-113,1996,1,1,90,1,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+289,Lee Soonmin,krKOR,MF,Daejeon Citizen FC,31-024,1994,6,5,447,5,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+290,Baek Sung-dong,krKOR,"MF,FW",Pohang,33-306,1991,6,3,177,2,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+291,Ki Sung-yueng,krKOR,MF,FC Seoul,36-142,1989,8,5,489,5.4,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+292,Choi Sungbum,krKOR,MF,FC Anyang,23-173,2001,10,2,327,3.6,1,1,2,1,0,0,1,0,0.28,0.28,0.55,0.28,0.55,Matches
+293,Jo Sungwook,krKOR,DF,Pohang,30-085,1995,2,1,40,0.4,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+294,Kwon Sungyun,krKOR,MF,Gwangju FC,24-077,2001,1,0,16,0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+295,Lee Tae-hee,krKOR,DF,FC Anyang,32-364,1992,18,18,"1,619",18,0,1,1,0,0,0,4,0,0,0.06,0.06,0,0.06,Matches
+296,Nam Tae-hee,krKOR,"MF,FW",Jeju United FC,33-347,1991,18,15,"1,377",15.3,1,4,5,1,0,0,3,0,0.07,0.26,0.33,0.07,0.33,Matches
+297,Kim Tae-hwan,krKOR,DF,Jeonbuk Hyundai,35-326,1989,18,18,"1,620",18,0,1,1,0,0,0,1,0,0,0.06,0.06,0,0.06,Matches
+298,An Tae-hyun,krKOR,"DF,MF",Jeju United FC,32-106,1993,15,13,"1,150",12.8,0,2,2,0,0,0,2,0,0,0.16,0.16,0,0.16,Matches
+299,Kim Taehan,krKOR,DF,Suwon FC,29-111,1996,13,12,"1,116",12.4,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches
+300,Jin Taeho,krKOR,FW,Jeonbuk Hyundai,19-146,2006,6,0,76,0.8,0,1,1,0,0,0,0,0,0,1.18,1.18,0,1.18,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,MP,Starts,Min,90s,Gls,Ast,G+A,G-PK,PK,PKatt,CrdY,CrdR,Gls,Ast,G+A,G-PK,G+A-PK,Matches
+301,Han Taehui,krKOR,GK,Daegu,20-345,2004,6,6,540,6,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+302,Kim Taehwan,krKOR,MF,Gangwon,19-017,2006,1,0,5,0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+303,Kim Taehwan,krKOR,DF,Jeju United FC,25-082,2000,2,1,134,1.5,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+304,Kim Taehyun,krKOR,DF,Jeonbuk Hyundai,28-178,1996,15,14,"1,274",14.2,0,1,1,0,0,0,1,0,0,0.07,0.07,0,0.07,Matches
+305,Park Taejun,krKOR,MF,Gwangju FC,26-147,1999,15,12,"1,203",13.4,1,1,2,1,0,0,3,0,0.07,0.07,0.15,0.07,0.15,Matches
+306,Lee Taekgeun,krKOR,"MF,DF",Suwon FC,23-182,2001,11,4,411,4.6,1,1,2,1,0,0,0,0,0.22,0.22,0.44,0.22,0.44,Matches
+307,Lee Taeseok,krKOR,"DF,MF",Pohang,22-322,2002,17,15,"1,430",15.9,1,2,3,1,0,0,4,0,0.06,0.13,0.19,0.06,0.19,Matches
+308,Kwon Taeyoung,krKOR,FW,Daegu,23-010,2002,9,1,190,2.1,0,1,1,0,0,0,0,0,0,0.47,0.47,0,0.47,Matches
+309,Gabriel Tigrão,brBRA,"MF,FW",Gwangju FC,23-245,2001,8,4,316,3.5,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+310,Marko Tuci,meMNE,DF,Gangwon,26-193,1998,15,14,"1,323",14.7,0,0,0,0,0,0,4,0,0,0,0,0,0,Matches
+311,Hong Ukhyeon,krKOR,DF,Sangju Sangmu,21-160,2004,6,0,28,0.3,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+312,Wanderson,brBRA,FW,Pohang,36-076,1989,2,1,123,1.4,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+313,Willyan,brBRA,MF,FC Seoul,31-118,1994,7,2,103,1.1,0,1,1,0,0,0,1,0,0,0.87,0.87,0,0.87,Matches
+314,Um Wonsang,krKOR,"FW,MF",Ulsan HD,26-160,1999,18,8,"1,097",12.2,1,3,4,1,0,0,0,0,0.08,0.25,0.33,0.08,0.33,Matches
+315,Lee Wonwoo,krKOR,DF,Daegu,22-091,2003,7,4,363,4,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches
+316,Jeong Woo-jae,krKOR,"DF,MF",Daegu,32-352,1992,8,8,615,6.8,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+317,Jung Woo-young,krKOR,"MF,DF",Ulsan HD,35-183,1989,9,8,563,6.3,0,1,1,0,0,0,2,0,0,0.16,0.16,0,0.16,Matches
+318,Choi Woojin,krKOR,DF,Jeonbuk Hyundai,20-332,2004,6,4,345,3.8,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+319,Choi Yehoon,krKOR,DF,Sangju Sangmu,21-300,2003,11,9,364,4,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+320,Lee Yeong-jae,krKOR,MF,Jeonbuk Hyundai,30-275,1994,16,5,578,6.4,1,0,1,1,0,0,0,0,0.16,0,0.16,0.16,0.16,Matches
+321,Jang Yeongwoo,krKOR,MF,Suwon FC,22-298,2002,4,2,156,1.7,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+322,Kim Yiseok,krKOR,MF,Gangwon,26-361,1998,3,1,88,1,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+323,Lee Yong,krKOR,"DF,MF",Suwon FC,38-173,1986,7,7,584,6.5,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+324,Ri Yong-jik,kpPRK,MF,FC Anyang,34-127,1991,13,8,734,8.2,0,0,0,0,0,0,2,0,0,0,0,0,0,Matches
+325,Lee Yong-rae,krKOR,MF,Daegu,39-059,1986,4,2,100,1.1,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,MP,Starts,Min,90s,Gls,Ast,G+A,G-PK,PK,PKatt,CrdY,CrdR,Gls,Ast,G+A,G-PK,G+A-PK,Matches
+326,Park Yonghui,krKOR,"MF,FW",Suwon FC,23-078,2002,11,5,538,6,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+327,Hong Yongjun,krKOR,MF,Gwangju FC,22-081,2003,1,1,45,0.5,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+328,Jeon Yongjun,krKOR,FW,Daegu,21-334,2003,2,0,19,0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+329,Heo Yool,krKOR,FW,Ulsan HD,24-064,2001,15,10,912,10.1,3,1,4,3,0,0,3,0,0.3,0.1,0.39,0.3,0.39,Matches
+330,Kyohei Yoshino,jpJPN,MF,Daegu,30-219,1994,16,14,"1,095",12.2,2,0,2,2,0,0,4,0,0.16,0,0.16,0.16,0.16,Matches
+331,Lee You-hyeon,krKOR,"DF,MF",Gangwon,28-127,1997,12,12,"1,000",11.1,0,2,2,0,0,0,3,0,0,0.18,0.18,0,0.18,Matches
+332,Kim Young-bin,krKOR,DF,Jeonbuk Hyundai,33-268,1991,16,14,"1,293",14.4,0,0,0,0,0,0,3,0,0,0,0,0,0,Matches
+333,Kim Young-chan,krKOR,DF,FC Anyang,31-284,1993,11,11,961,10.7,0,0,0,0,0,0,3,0,0,0,0,0,0,Matches
+334,Kim Young-gwon,krKOR,DF,Ulsan HD,35-108,1990,19,17,"1,638",18.2,0,1,1,0,0,0,2,0,0,0.05,0.05,0,0.05,Matches
+335,Ahn Young-kyu,krKOR,DF,Gwangju FC,35-193,1989,10,9,742,8.2,0,1,1,0,0,0,1,0,0,0.12,0.12,0,0.12,Matches
+336,Cho Youngwook,krKOR,FW,FC Seoul,26-130,1999,17,11,872,9.7,1,0,1,1,0,0,0,0,0.1,0,0.1,0.1,0.1,Matches
+337,Jang Yun-ho,krKOR,MF,Suwon FC,28-294,1996,5,3,209,2.3,0,1,1,0,0,0,1,0,0,0.43,0.43,0,0.43,Matches
+338,Kang Yun-seong,krKOR,"MF,DF",Daejeon Citizen FC,27-349,1997,16,15,"1,365",15.2,0,1,1,0,0,0,4,1,0,0.07,0.07,0,0.07,Matches
+339,Hong Yunsang,krKOR,"MF,FW",Pohang,23-088,2002,14,9,675,7.5,0,0,0,0,0,0,2,0,0,0,0,0,0,Matches

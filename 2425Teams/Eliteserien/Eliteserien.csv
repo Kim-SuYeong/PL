@@ -1,0 +1,354 @@
+﻿Rk,Player,Nation,Position,Squad,Current age,Year of birth,Matches Played,Starts,Minutes,90s Played,Goals,Assists,Goals + Assists,Non-Penalty Goals,Penalty Kicks Made,Penalty Kicks Attempted,Yellow Cards,Red Cards,Goals/90,Assists/90,Goals + Assists/90,Non-Penalty Goals/90,Non-Penalty Goals + Assists/90,Matches
+1,Jalal Abdulai,ghGHA,FW,Molde,20-161,2005,5,3,287,3.2,1,0,1,1,0,0,2,0,0.31,0,0.31,0.31,0.31,Matches
+2,Ayoub Aleesami,noNOR,DF,KFUM Oslo,29-126,1996,9,5,518,5.8,0,0,0,0,0,0,2,0,0,0,0,0,0,Matches
+3,Haitam Aleesami,noNOR,DF,Bodø/Glimt,33-319,1991,8,3,302,3.4,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+4,Pål Alexander Kirkevold,noNOR,FW,HamKam,34-217,1990,6,1,170,1.9,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches
+5,Ruben Alte,noNOR,MF,Kristiansund,25-107,2000,11,11,951,10.6,2,1,3,2,0,0,2,0,0.19,0.09,0.28,0.19,0.28,Matches
+6,Leander Alvheim,noNOR,FW,Kristiansund,20-273,2004,5,0,21,0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+7,Martin Alvsaker,noNOR,MF,Haugesund,20-132,2005,2,0,40,0.4,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+8,Fidel Ambina,cmCMR,MF,Vålerenga,23-210,2001,10,10,885,9.8,1,3,4,1,0,0,3,0,0.1,0.31,0.41,0.1,0.41,Matches
+9,Isak Amundsen,noNOR,DF,Molde,25-244,1999,8,6,564,6.3,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+10,Fredrik André Bjørkan,noNOR,DF,Bodø/Glimt,26-298,1998,8,8,646,7.2,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches
+11,Tore André Sørås,noNOR,MF,HamKam,26-362,1998,9,9,759,8.4,1,0,1,1,0,0,1,0,0.12,0,0.12,0.12,0.12,Matches
+12,Markus Andreas Kaasa,noNOR,MF,Molde,27-335,1997,2,1,116,1.3,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+13,Kent-Are Antonsen,noNOR,MF,Tromsø,30-123,1995,9,6,553,6.1,1,0,1,1,0,0,1,0,0.16,0,0.16,0.16,0.16,Matches
+14,Fredrik Ardraa,noNOR,MF,Strømsgodset,18-251,2006,9,3,437,4.9,1,1,2,1,0,0,1,0,0.21,0.21,0.41,0.21,0.41,Matches
+15,Viðar Ari Jónsson,isISL,DF,HamKam,31-097,1994,8,3,341,3.8,1,0,1,1,0,0,0,0,0.26,0,0.26,0.26,0.26,Matches
+16,Eggert Aron Guðmundsson,isISL,MF,Brann,21-127,2004,11,10,828,9.2,2,2,4,2,0,0,0,0,0.22,0.22,0.43,0.22,0.43,Matches
+17,Kristoffer Askildsen,noNOR,MF,Viking,24-157,2001,9,1,193,2.1,1,1,2,1,0,0,1,0,0.47,0.47,0.93,0.47,0.93,Matches
+18,Sondre Auklend,noNOR,MF,Bodø/Glimt,22-005,2003,3,0,69,0.8,0,1,1,0,0,0,0,0,0,1.3,1.3,0,1.3,Matches
+19,Vetle Auklend,noNOR,MF,Viking,20-085,2005,1,0,45,0.5,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+20,Edvin Austbø,noNOR,MF,Viking,20-045,2005,12,12,881,9.8,3,2,5,3,0,0,1,0,0.31,0.2,0.51,0.31,0.51,Matches
+21,Johan Bakke,noNOR,MF,Molde,21-075,2004,2,0,32,0.4,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+22,Ludvig Begby,noNOR,DF,Fredrikstad,28-075,1997,3,0,29,0.3,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+23,Joe Bell,nzNZL,MF,Viking,26-049,1999,12,12,"1,077",12,1,3,4,1,0,0,2,0,0.08,0.25,0.33,0.08,0.33,Matches
+24,Patrick Berg,noNOR,MF,Bodø/Glimt,27-203,1997,8,8,720,8,0,3,3,0,0,0,1,0,0,0.37,0.37,0,0.37,Matches
+25,Veton Berisha,noNOR,FW,Molde,31-063,1994,6,2,255,2.8,3,0,3,2,1,2,0,1,1.06,0,1.06,0.71,0.71,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,MP,Starts,Min,90s,Gls,Ast,G+A,G-PK,PK,PKatt,CrdY,CrdR,Gls,Ast,G+A,G-PK,G+A-PK,Matches
+26,Bendik Berntsen,noNOR,FW,Sandefjord,18-059,2007,1,0,16,0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+27,Parfait Bizoza,biBDI,"DF,MF",Haugesund,26-104,1999,10,7,574,6.4,0,1,1,0,0,0,0,0,0,0.16,0.16,0,0.16,Matches
+28,Henrik Bjørdal,noNOR,"MF,FW",Vålerenga,28-131,1997,6,6,535,5.9,2,2,4,2,0,0,1,0,0.34,0.34,0.67,0.34,0.67,Matches
+29,Martin Bjørnbak,noNOR,DF,Molde,33-085,1992,1,1,76,0.8,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+30,Sondre Bjørshol,noNOR,DF,Viking,31-046,1994,4,0,44,0.5,1,0,1,1,0,0,0,0,2.05,0,2.05,2.05,2.05,Matches
+31,Jan de Boer,nlNED,GK,Bryne,25-026,2000,9,9,810,9,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches
+32,Sanel Bojadzic,noNOR,FW,Bryne,26-229,1998,7,5,454,5,3,1,4,2,1,1,0,0,0.59,0.2,0.79,0.4,0.59,Matches
+33,Anders Bondhus,noNOR,DF,Haugesund,19-362,2005,5,1,292,3.2,0,1,1,0,0,0,0,0,0,0.31,0.31,0,0.31,Matches
+34,Christian Borchgrevink,noNOR,DF,Vålerenga,26-035,1999,2,0,37,0.4,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+35,Muamer Brajanac,dkDEN,FW,Vålerenga,24-120,2001,10,10,723,8,1,0,1,1,0,0,1,0,0.12,0,0.12,0.12,0.12,Matches
+36,Daniel Braut,noNOR,MF,Tromsø,20-045,2005,8,0,81,0.9,0,2,2,0,0,0,0,0,0,2.22,2.22,0,2.22,Matches
+37,Emil Breivik,noNOR,MF,Molde,25-004,2000,9,9,787,8.7,2,0,2,2,0,0,3,0,0.23,0,0.23,0.23,0.23,Matches
+38,Marius Broholm,noNOR,"FW,MF",Rosenborg,20-171,2004,11,11,947,10.5,5,1,6,4,1,1,3,0,0.48,0.1,0.57,0.38,0.48,Matches
+39,Sondre Brunstad Fet,noNOR,MF,Bodø/Glimt,28-149,1997,4,0,63,0.7,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+40,Anders Bærtelsen,dkDEN,DF,Viking,25-037,2000,12,12,986,11,0,1,1,0,0,0,1,0,0,0.09,0.09,0,0.09,Matches
+41,Ieltsin Camões,ptPOR,FW,Tromsø,26-060,1999,4,0,57,0.6,3,0,3,3,0,0,0,0,4.74,0,4.74,4.74,4.74,Matches
+42,Christian Cappis,usUSA,MF,Viking,25-306,1999,12,4,537,6,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+43,Frederik Carstensen,dkDEN,MF,Sarpsborg 08,23-067,2002,7,5,393,4.4,2,0,2,2,0,0,0,0,0.46,0,0.46,0.46,0.46,Matches
+44,Niklas Castro,clCHI,FW,Brann,29-158,1996,6,6,499,5.5,3,1,4,0,3,3,0,0,0.54,0.18,0.72,0,0.18,Matches
+45,Emil Ceide,noNOR,FW,Rosenborg,23-285,2001,10,8,726,8.1,2,1,3,2,0,0,2,0,0.25,0.12,0.37,0.25,0.37,Matches
+46,Mikkel Ceide,noNOR,DF,Rosenborg,23-285,2001,10,9,874,9.7,0,0,0,0,0,0,3,0,0,0,0,0,0,Matches
+47,Christopher Cheng,noNOR,DF,Sandefjord,23-231,2001,7,5,484,5.4,2,2,4,2,0,0,0,0,0.37,0.37,0.74,0.37,0.74,Matches
+48,Frederik Christensen,dkDEN,FW,Tromsø,24-148,2001,1,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+49,Ole Christian Sæter,noNOR,FW,Rosenborg,29-077,1996,10,3,336,3.7,1,0,1,1,0,0,2,0,0.27,0,0.27,0.27,0.27,Matches
+50,Peter Christiansen,dkDEN,FW,Viking,25-195,1999,12,11,887,9.9,4,1,5,4,0,1,0,0,0.41,0.1,0.51,0.41,0.51,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,MP,Starts,Min,90s,Gls,Ast,G+A,G-PK,PK,PKatt,CrdY,CrdR,Gls,Ast,G+A,G-PK,G+A-PK,Matches
+51,Sander Christiansen,noNOR,"MF,DF",Sarpsborg 08,24-047,2001,9,8,719,8,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches
+52,Rezan Corlu,dkDEN,MF,Kristiansund,27-312,1997,11,11,779,8.7,1,1,2,1,0,0,3,0,0.12,0.12,0.23,0.12,0.23,Matches
+53,Leo Cornic,noNOR,"DF,MF",Tromsø,24-164,2001,9,9,810,9,1,1,2,1,0,0,1,0,0.11,0.11,0.22,0.11,0.22,Matches
+54,Nicholas D'Agostino,auAUS,FW,Viking,27-110,1998,2,0,60,0.7,0,1,1,0,0,0,0,0,0,1.5,1.5,0,1.5,Matches
+55,Daniel Daga,ngNGA,MF,Molde,18-156,2007,5,0,93,1,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches
+56,Fredrik Dahl,noNOR,DF,Strømsgodset,26-136,1999,9,8,604,6.7,1,0,1,1,0,0,1,0,0.15,0,0.15,0.15,0.15,Matches
+57,Erlend Dahl Reitan,noNOR,DF,Rosenborg,27-277,1997,11,6,613,6.8,0,1,1,0,0,0,1,0,0,0.15,0.15,0,0.15,Matches
+58,Denzel De Roeve,beBEL,DF,Brann,20-309,2004,9,2,286,3.2,0,0,0,0,0,0,2,0,0,0,0,0,0,Matches
+59,Aleksander van der Spa,noNOR,FW,Sandefjord,20-114,2005,2,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+60,Madiodio Dia,snSEN,DF,Haugesund,21-151,2004,9,9,810,9,1,0,1,1,0,0,4,0,0.11,0,0.11,0.11,0.11,Matches
+61,Ole Didrik Blomberg,noNOR,"MF,FW",Bodø/Glimt,25-003,2000,7,7,488,5.4,3,2,5,3,0,0,0,0,0.55,0.37,0.92,0.55,0.92,Matches
+62,Jakob Dunsby,noNOR,MF,Sandefjord,25-094,2000,9,9,741,8.2,2,2,4,2,0,0,0,0,0.24,0.24,0.49,0.24,0.49,Matches
+63,Mathias Dyngeland,noNOR,GK,Brann,29-251,1995,11,11,990,11,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+64,Robin Dzabic,seSWE,MF,Sandefjord,24-073,2001,6,0,72,0.8,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+65,David Edvardsson,seSWE,MF,Tromsø,23-102,2002,8,4,368,4.1,1,0,1,1,0,0,3,0,0.24,0,0.24,0.24,0.24,Matches
+66,Vetle Egeli,noNOR,DF,Sandefjord,20-357,2004,5,4,331,3.7,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches
+67,Vegar Eggen Hedenstad,noNOR,DF,Vålerenga,33-354,1991,5,4,238,2.6,0,1,1,0,0,0,1,0,0,0.38,0.38,0,0.38,Matches
+68,Daniel Eid,noNOR,"MF,DF",Fredrikstad,26-244,1998,10,10,844,9.4,0,2,2,0,0,0,1,0,0,0.21,0.21,0,0.21,Matches
+69,Jostein Ekeland,noNOR,FW,Strømsgodset,27-326,1997,1,0,6,0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+70,Anton Ekeroth,seSWE,DF,HamKam,23-272,2001,9,7,604,6.7,0,0,0,0,0,0,4,0,0,0,0,0,0,Matches
+71,Mads Enggård,dkDEN,MF,Molde,21-146,2004,6,5,436,4.8,0,0,0,0,0,0,4,1,0,0,0,0,0,Matches
+72,Lars Erik Sødal,noNOR,MF,Bryne,23-020,2002,7,6,580,6.4,0,0,0,0,0,0,2,0,0,0,0,0,0,Matches
+73,Kristian Eriksen,noNOR,"MF,FW",Molde,29-332,1995,9,9,740,8.2,3,0,3,3,0,0,1,0,0.36,0,0.36,0.36,0.36,Matches
+74,Vegard Erlien,noNOR,FW,Tromsø,27-159,1998,9,9,776,8.6,5,1,6,4,1,1,0,0,0.58,0.12,0.7,0.46,0.58,Matches
+75,Julius Eskesen,dkDEN,MF,Haugesund,26-091,1999,10,9,802,8.9,1,0,1,1,0,0,3,0,0.11,0,0.11,0.11,0.11,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,MP,Starts,Min,90s,Gls,Ast,G+A,G-PK,PK,PKatt,CrdY,CrdR,Gls,Ast,G+A,G-PK,G+A-PK,Matches
+76,Runar Espejord,noNOR,FW,Haugesund,29-109,1996,7,6,371,4.1,1,0,1,0,1,1,0,0,0.24,0,0.24,0,0,Matches
+77,Håkon Evjen,noNOR,MF,Bodø/Glimt,25-121,2000,8,8,652,7.2,0,2,2,0,0,0,2,0,0,0.28,0.28,0,0.28,Matches
+78,Henrik Falchener,noNOR,DF,Viking,22-038,2003,12,12,"1,080",12,3,0,3,3,0,0,2,0,0.25,0,0.25,0.25,0.25,Matches
+79,Fallou Fall,snSEN,DF,Fredrikstad,21-061,2004,8,8,708,7.9,1,0,1,1,0,0,4,0,0.13,0,0.13,0.13,0.13,Matches
+80,Benjamin Faraas,noNOR,FW,Fredrikstad,19-280,2005,9,0,99,1.1,1,0,1,1,0,0,0,0,0.91,0,0.91,0.91,0.91,Matches
+81,Marko Farji,iqIRQ,MF,Strømsgodset,21-091,2004,9,8,729,8.1,5,3,8,5,0,0,2,0,0.62,0.37,0.99,0.62,0.99,Matches
+82,Einar Fauskanger,noNOR,GK,Haugesund,16-332,2008,1,1,90,1,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+83,Bård Finne,noNOR,FW,Brann,30-122,1995,9,6,513,5.7,3,1,4,3,0,0,0,0,0.53,0.18,0.7,0.53,0.7,Matches
+84,Jonathan Fischer,dkDEN,GK,Fredrikstad,23-218,2001,10,10,900,10,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+85,Mikkel Fischer,dkDEN,DF,Haugesund,21-084,2004,10,10,893,9.9,0,0,0,0,0,0,2,0,0,0,0,0,0,Matches
+86,Frederik Flex,dkDEN,DF,Kristiansund,21-096,2004,9,3,323,3.6,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches
+87,Iver Fossum,noNOR,MF,Rosenborg,28-335,1996,10,10,766,8.5,1,1,2,1,0,0,0,0,0.12,0.12,0.23,0.12,0.23,Matches
+88,Ulrik Fredriksen,noNOR,DF,Fredrikstad,25-363,1999,10,10,900,10,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches
+89,Niklas Fuglestad,noNOR,FW,Viking,19-026,2006,4,0,52,0.6,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+90,Dadi Gaye,gmGAM,DF,Bryne,30-086,1995,2,0,22,0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+91,Martin Gjone,noNOR,DF,Sandefjord,20-017,2005,6,4,335,3.7,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches
+92,Julian Gonstad,noNOR,FW,HamKam,18-351,2006,9,3,330,3.7,1,1,2,0,1,1,0,0,0.27,0.27,0.55,0,0.27,Matches
+93,Luis Görlich,deGER,DF,Bryne,25-075,2000,8,6,497,5.5,0,0,0,0,0,0,3,0,0,0,0,0,0,Matches
+94,Igor Gosik,noNOR,MF,Molde,17-128,2008,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+95,Sondre Granaas,noNOR,MF,Molde,18-289,2006,10,5,529,5.9,0,1,1,0,0,0,2,0,0,0.17,0.17,0,0.17,Matches
+96,Gustav Granath,seSWE,DF,HamKam,28-120,1997,9,6,617,6.9,0,1,1,0,0,0,0,0,0,0.15,0.15,0,0.15,Matches
+97,Tobias Guddal,noNOR,DF,Tromsø,22-325,2002,9,9,785,8.7,0,0,0,0,0,0,2,0,0,0,0,0,0,Matches
+98,Axel Guessand,frFRA,DF,Kristiansund,20-221,2004,5,0,16,0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+99,Fredrik Gulbrandsen,noNOR,FW,Molde,32-278,1992,5,3,234,2.6,1,0,1,1,0,0,2,0,0.38,0,0.38,0.38,0.38,Matches
+100,Jostein Gundersen,noNOR,DF,Bodø/Glimt,29-074,1996,7,7,581,6.5,1,0,1,1,0,0,0,1,0.15,0,0.15,0.15,0.15,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,MP,Starts,Min,90s,Gls,Ast,G+A,G-PK,PK,PKatt,CrdY,CrdR,Gls,Ast,G+A,G-PK,G+A-PK,Matches
+101,Sveinn Guðjohnsen,isISL,FW,Sarpsborg 08,27-034,1998,8,1,151,1.7,2,0,2,2,0,0,0,0,1.19,0,1.19,1.19,1.19,Matches
+102,Markus Haaland,noNOR,MF,Brann,20-099,2005,2,0,11,0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+103,Elias Hadaya,sySYR,GK,Sandefjord,26-288,1998,9,9,810,9,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches
+104,Elias Hagen,noNOR,MF,Vålerenga,25-146,2000,10,3,341,3.8,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+105,Martin Håheim-Elveseter,noNOR,MF,Sarpsborg 08,19-168,2005,5,1,106,1.2,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches
+106,Nikita Haikin,ruRUS,GK,Bodø/Glimt,29-339,1995,8,8,720,8,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+107,Kristian Håland,noNOR,FW,Bryne,18-061,2007,1,0,13,0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+108,Teodor Haltvik,noNOR,"MF,FW",KFUM Oslo,25-067,2000,8,5,438,4.9,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches
+109,Victor Halvorsen,noNOR,MF,Sarpsborg 08,20-347,2004,8,5,435,4.8,1,0,1,1,0,0,0,0,0.21,0,0.21,0.21,0.21,Matches
+110,Jakob Hansen,noNOR,MF,Viking,19-364,2005,10,9,681,7.6,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches
+111,Mads Hansen,dkDEN,FW,Brann,22-322,2002,10,3,307,3.4,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches
+112,Mikkel Hansen,dkDEN,FW,Bodø/Glimt,16-141,2009,1,0,11,0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+113,Jacob Hanstad,noNOR,MF,Fredrikstad,22-225,2002,2,0,18,0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+114,Jakob Haugaard,dkDEN,GK,Tromsø,33-045,1992,9,9,810,9,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches
+115,Eirik Haugan,noNOR,DF,Molde,27-292,1997,8,7,656,7.3,0,0,0,0,0,0,2,0,0,0,0,0,0,Matches
+116,Haakon Haugen,noNOR,FW,Kristiansund,18-156,2007,2,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+117,Herman Haugen,noNOR,MF,Viking,25-051,2000,7,1,172,1.9,1,0,1,1,0,0,2,0,0.52,0,0.52,0.52,0.52,Matches
+118,Kristoffer Haugen,noNOR,DF,Molde,31-114,1994,9,9,721,8,0,1,1,0,0,0,0,0,0,0.12,0.12,0,0.12,Matches
+119,Aune Heggebø,noNOR,FW,Brann,23-321,2001,11,11,981,10.9,7,1,8,5,2,2,1,0,0.64,0.09,0.73,0.46,0.55,Matches
+120,Henrik Heggheim,noNOR,DF,Viking,24-054,2001,12,12,"1,047",11.6,2,3,5,2,0,0,3,0,0.17,0.26,0.43,0.17,0.43,Matches
+121,Eivind Helland,noNOR,DF,Brann,20-051,2005,11,11,973,10.8,0,1,1,0,0,0,3,0,0,0.09,0.09,0,0.09,Matches
+122,Andreas Helmersen,noNOR,FW,Bodø/Glimt,27-092,1998,6,2,177,2,1,0,1,1,0,0,0,0,0.51,0,0.51,0.51,0.51,Matches
+123,Andreas Heredia-Randen,noNOR,DF,Strømsgodset,19-113,2006,3,0,16,0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+124,Eirik Hestad,noNOR,MF,Molde,29-354,1995,7,5,403,4.5,0,3,3,0,0,0,1,0,0,0.67,0.67,0,0.67,Matches
+125,Simen Hestnes,noNOR,MF,KFUM Oslo,29-130,1996,8,8,662,7.4,1,0,1,1,0,0,0,1,0.14,0,0.14,0.14,0.14,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,MP,Starts,Min,90s,Gls,Ast,G+A,G-PK,PK,PKatt,CrdY,CrdR,Gls,Ast,G+A,G-PK,G+A-PK,Matches
+126,David Hickson Gyedu,noNOR,"MF,DF",KFUM Oslo,27-341,1997,7,6,484,5.4,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches
+127,Jens Hjertø-Dahl,noNOR,MF,Tromsø,19-227,2005,9,8,652,7.2,1,1,2,1,0,0,1,0,0.14,0.14,0.28,0.14,0.28,Matches
+128,Jonas Hjorth,noNOR,"MF,DF",KFUM Oslo,24-136,2001,6,4,373,4.1,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+129,Elias Hoff Melkersen,noNOR,FW,Strømsgodset,22-166,2002,4,4,280,3.1,0,1,1,0,0,0,1,0,0,0.32,0.32,0,0.32,Matches
+130,Ian Hoffmann,deGER,DF,Kristiansund,23-280,2001,10,10,897,10,0,1,1,0,0,0,4,0,0,0.1,0.1,0,0.1,Matches
+131,Noah Holm,noNOR,FW,Rosenborg,24-023,2001,9,7,623,6.9,1,1,2,1,0,0,1,0,0.14,0.14,0.29,0.14,0.29,Matches
+132,Emil Holten,dkDEN,FW,Fredrikstad,28-311,1996,10,10,728,8.1,3,3,6,1,2,2,0,0,0.37,0.37,0.74,0.12,0.49,Matches
+133,Rasmus Holten,noNOR,MF,Brann,20-115,2005,4,0,32,0.4,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+134,Mikkel Hope,noNOR,DF,Haugesund,18-311,2006,3,1,166,1.8,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+135,Håkon Hoseth,noNOR,"MF,DF",KFUM Oslo,26-088,1999,4,3,266,3,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches
+136,Jens Husebø,noNOR,DF,Bryne,26-100,1999,9,9,810,9,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+137,Sory Ibrahim Diarra,mlMLI,FW,Haugesund,25-107,2000,4,3,302,3.4,1,0,1,1,0,0,0,0,0.3,0,0.3,0.3,0.3,Matches
+138,Wilfred Igor,ngNGA,MF,Kristiansund,20-115,2005,11,11,960,10.7,1,0,1,1,0,0,2,0,0.09,0,0.09,0.09,0.09,Matches
+139,Jo Inge Berget,noNOR,FW,Sarpsborg 08,34-277,1990,4,3,187,2.1,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches
+140,Brynjar Ingi Bjarnason,isISL,DF,HamKam,25-191,1999,9,9,804,8.9,0,1,1,0,0,0,1,0,0,0.11,0.11,0,0.11,Matches
+141,Stefán Ingi Sigurðarson,isISL,FW,Sandefjord,24-139,2001,7,7,596,6.6,5,1,6,5,0,0,1,1,0.76,0.15,0.91,0.76,0.91,Matches
+142,Sander Innvær,noNOR,MF,Haugesund,20-247,2004,9,4,379,4.2,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+143,Mustapha Isah,ngNGA,"MF,FW",Kristiansund,20-327,2004,10,5,517,5.7,1,0,1,1,0,0,2,0,0.17,0,0.17,0.17,0.17,Matches
+144,Dino Islamović,meMNE,FW,Rosenborg,31-149,1994,8,5,461,5.1,0,1,1,0,0,0,1,0,0,0.2,0.2,0,0.2,Matches
+145,Sebastian Jarl,noNOR,DF,Vålerenga,25-155,2000,9,8,740,8.2,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+146,Mohanad Jeahze,iqIRQ,DF,Sarpsborg 08,28-066,1997,4,2,198,2.2,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+147,Igor Jeličić,rsSRB,DF,Kristiansund,25-107,2000,5,2,280,3.1,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+148,Elias Jemal,seSWE,FW,Sandefjord,22-104,2003,7,0,91,1,1,0,1,1,0,0,0,0,0.99,0,0.99,0.99,0.99,Matches
+149,Anders Jenssen,noNOR,DF,Tromsø,31-248,1993,6,4,309,3.4,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches
+150,Markus Johnsgård,noNOR,MF,HamKam,26-225,1998,2,1,87,1,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,MP,Starts,Min,90s,Gls,Ast,G+A,G-PK,PK,PKatt,CrdY,CrdR,Gls,Ast,G+A,G-PK,G+A-PK,Matches
+151,Sjur Jonassen,noNOR,FW,Bryne,20-255,2004,6,2,201,2.2,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+152,Samukelo Kabini,zaRSA,DF,Molde,21-092,2004,4,2,285,3.2,0,1,1,0,0,0,1,0,0,0.32,0.32,0,0.32,Matches
+153,Daniel Karlsbakk,noNOR,"FW,MF",Sarpsborg 08,22-069,2003,8,8,664,7.4,6,1,7,5,1,1,1,0,0.81,0.14,0.95,0.68,0.81,Matches
+154,Jacob Karlstrom,noNOR,GK,Molde,28-157,1997,10,10,900,10,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches
+155,Sander Kilen,noNOR,"MF,FW",Kristiansund,20-016,2005,11,7,652,7.2,3,1,4,3,0,1,0,0,0.41,0.14,0.55,0.41,0.55,Matches
+156,Thomas Kinn,noNOR,GK,Viking,26-128,1999,5,5,450,5,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+157,Abubacarr Kinteh,gmGAM,DF,Tromsø,18-197,2006,4,4,359,4,0,0,0,0,0,0,2,0,0,0,0,0,0,Matches
+158,Jeppe Kjær,dkDEN,FW,Bodø/Glimt,21-106,2004,1,0,9,0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+159,Kristoffer Klaesson,noNOR,GK,Viking,24-200,2000,4,4,360,4,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+160,Menno Koch,nlNED,DF,Sarpsborg 08,30-348,1994,9,9,803,8.9,0,1,1,0,0,0,0,0,0,0.11,0.11,0,0.11,Matches
+161,Morten Konradsen,noNOR,MF,Haugesund,29-043,1996,10,10,835,9.3,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches
+162,Emil Kornvig,dkDEN,MF,Brann,25-048,2000,11,11,959,10.7,2,1,3,2,0,0,3,0,0.19,0.09,0.28,0.19,0.28,Matches
+163,Kreshnik Krasniqi,xkKVX,MF,Strømsgodset,24-175,2000,9,9,791,8.8,1,0,1,1,0,0,1,0,0.11,0,0.11,0.11,0.11,Matches
+164,Per Kristian Bråtveit,noNOR,GK,Strømsgodset,29-120,1996,8,8,720,8,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches
+165,Ole Kristian Enersen,noNOR,MF,Strømsgodset,22-282,2002,1,0,9,0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+166,Ruben Kristiansen,noNOR,DF,Tromsø,37-115,1988,4,2,231,2.6,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+167,Stian Kristiansen,noNOR,DF,Sandefjord,26-160,1999,9,9,810,9,1,1,2,1,0,0,1,0,0.11,0.11,0.22,0.11,0.22,Matches
+168,Oscar Krusnell,seSWE,"DF,MF",Haugesund,26-118,1999,9,9,692,7.7,0,0,0,0,0,0,1,1,0,0,0,0,0,Matches
+169,Axel Kryger,noNOR,"DF,MF",Bryne,27-237,1997,9,9,793,8.8,1,0,1,0,1,1,2,0,0.11,0,0.11,0,0,Matches
+170,Simen Kvia-Egeskog,noNOR,FW,Viking,22-020,2003,10,0,267,3,3,0,3,3,0,0,0,0,1.01,0,1.01,1.01,1.01,Matches
+171,Simo Lampinen-Skaug,noNOR,GK,Strømsgodset,20-067,2005,1,1,90,1,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+172,Christian Landu Landu,noNOR,"DF,MF",Bryne,33-141,1992,4,0,15,0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+173,Carl Lange,dkDEN,MF,Vålerenga,26-251,1998,10,10,854,9.5,1,0,1,1,0,0,2,0,0.11,0,0.11,0.11,0.11,Matches
+174,Yann-Erik de Lanlay,noNOR,"FW,MF",Viking,33-032,1992,1,0,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+175,Michael Lansing,usUSA,GK,Kristiansund,31-002,1994,3,3,204,2.3,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,MP,Starts,Min,90s,Gls,Ast,G+A,G-PK,PK,PKatt,CrdY,CrdR,Gls,Ast,G+A,G-PK,G+A-PK,Matches
+176,Heine Larsen,noNOR,"FW,MF",Bryne,22-341,2002,6,4,442,4.9,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches
+177,Mads Larsen,noNOR,DF,HamKam,19-067,2006,1,0,11,0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+178,Bruno Leite,cvCPV,MF,Haugesund,30-081,1995,7,6,438,4.9,0,0,0,0,0,0,2,1,0,0,0,0,0,Matches
+179,Martin Linnes,noNOR,DF,Molde,33-268,1991,6,5,459,5.1,0,1,1,0,0,0,2,0,0,0.2,0.2,0,0.2,Matches
+180,Momodou Lion Njie,gmGAM,DF,KFUM Oslo,23-187,2001,7,7,526,5.8,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches
+181,Filip Loftesnes-Bjune,noNOR,DF,Sandefjord,20-068,2005,7,7,590,6.6,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+182,Valdemar Lund,dkDEN,DF,Molde,22-018,2003,9,6,434,4.8,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches
+183,Odin Lurås Bjørtuft,noNOR,DF,Bodø/Glimt,26-178,1998,7,4,380,4.2,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+184,Isak Määttä,noNOR,FW,Bodø/Glimt,23-269,2001,7,2,264,2.9,0,1,1,0,0,0,1,0,0,0.34,0.34,0,0.34,Matches
+185,Luc Mares,nlNED,DF,HamKam,28-255,1996,7,7,630,7,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches
+186,Bjørn Martin Kristensen,phPHI,"FW,MF",KFUM Oslo,23-042,2002,9,5,506,5.6,0,1,1,0,0,0,2,0,0,0.18,0.18,0,0.18,Matches
+187,Sebastian Mathisen,noNOR,FW,Sandefjord,20-012,2005,2,0,34,0.4,0,1,1,0,0,0,0,0,0,2.65,2.65,0,2.65,Matches
+188,Ulrik Mathisen,noNOR,FW,Brann,26-148,1999,7,2,280,3.1,0,1,1,0,0,0,0,0,0,0.32,0.32,0,0.32,Matches
+189,Moses Mawa,noNOR,FW,HamKam,28-315,1996,8,7,574,6.4,2,0,2,2,0,0,1,0,0.31,0,0.31,0.31,0.31,Matches
+190,Marcus Mehnert,noNOR,"MF,FW",Strømsgodset,27-230,1997,8,8,627,7,0,2,2,0,0,0,1,0,0,0.29,0.29,0,0.29,Matches
+191,Marcus Melchior,noNOR,MF,Sandefjord,24-126,2001,9,7,547,6.1,1,2,3,1,0,0,1,0,0.16,0.33,0.49,0.16,0.49,Matches
+192,Olav Mengshoel,noNOR,FW,HamKam,16-346,2008,1,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+193,Patrick Metcalfe,caCAN,MF,Fredrikstad,26-216,1998,10,9,766,8.5,1,0,1,1,0,0,0,0,0.12,0,0.12,0.12,0.12,Matches
+194,Loris Mettler,chSUI,MF,Sandefjord,26-183,1998,8,4,349,3.9,0,0,0,0,0,0,2,0,0,0,0,0,0,Matches
+195,Hilmir Mikaelsson,isISL,FW,Viking,21-133,2004,7,1,153,1.7,2,0,2,1,1,1,0,0,1.18,0,1.18,0.59,0.59,Matches
+196,August Mikkelsen,noNOR,FW,Tromsø,24-234,2000,7,4,344,3.8,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches
+197,Brede Moe,noNOR,DF,Bodø/Glimt,33-182,1991,2,1,105,1.2,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+198,Stian Molde,noNOR,"MF,DF",Fredrikstad,28-178,1996,10,8,709,7.9,1,0,1,1,0,0,0,0,0.13,0,0.13,0.13,0.13,Matches
+199,Nikolaj Moller,seSWE,FW,Strømsgodset,22-330,2002,9,3,404,4.5,1,0,1,0,1,1,0,0,0.22,0,0.22,0,0,Matches
+200,Mame Mor Ndiaye,snSEN,FW,KFUM Oslo,28-023,1997,2,0,18,0.2,1,0,1,1,0,0,0,0,5,0,5,5,5,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,MP,Starts,Min,90s,Gls,Ast,G+A,G-PK,PK,PKatt,CrdY,CrdR,Gls,Ast,G+A,G-PK,G+A-PK,Matches
+201,Duarte Moreira,ptPOR,"FW,MF",Bryne,23-259,2001,9,9,727,8.1,4,2,6,4,0,0,0,0,0.5,0.25,0.74,0.5,0.74,Matches
+202,Mathias Mork,noNOR,MF,Molde,17-323,2007,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+203,Jonas Mortensen,dkDEN,DF,Rosenborg,24-150,2001,3,0,11,0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+204,Felix Myhre,noNOR,MF,Brann,26-103,1999,11,11,990,11,2,3,5,2,0,0,1,0,0.18,0.27,0.45,0.18,0.45,Matches
+205,Mats Møller Dæhli,noNOR,"MF,FW",Molde,30-105,1995,8,7,592,6.6,0,1,1,0,0,0,0,0,0,0.15,0.15,0,0.15,Matches
+206,Faveur Ndayizeye,noNOR,DF,Molde,17-052,2008,1,0,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+207,Mamour Ndiaye,snSEN,GK,Sarpsborg 08,19-236,2005,9,9,810,9,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+208,Alioune Ndour,snSEN,FW,Kristiansund,27-237,1997,10,8,643,7.1,2,0,2,0,2,2,0,0,0.28,0,0.28,0,0,Matches
+209,Tomáš Nemčík,skSVK,DF,Rosenborg,24-057,2001,9,9,805,8.9,0,1,1,0,0,0,0,0,0,0.11,0.11,0,0.11,Matches
+210,Villads Nielsen,dkDEN,DF,Bodø/Glimt,20-137,2005,3,1,128,1.4,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+211,Alexander Nilsson,seSWE,GK,HamKam,27-297,1997,3,3,270,3,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+212,Claus Niyukuri,biBDI,DF,Haugesund,25-122,2000,5,5,316,3.5,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches
+213,Moussa Njie,noNOR,"MF,FW",KFUM Oslo,29-256,1995,6,6,476,5.3,2,0,2,2,0,0,0,0,0.38,0,0.38,0.38,0.38,Matches
+214,Vinícius Nogueira,brBRA,DF,Vålerenga,23-186,2001,9,8,738,8.2,1,0,1,1,0,0,3,0,0.12,0,0.12,0.12,0.12,Matches
+215,Runar Norheim,noNOR,DF,Tromsø,20-121,2005,9,7,553,6.1,0,2,2,0,0,0,0,0,0,0.33,0.33,0,0.33,Matches
+216,Sondre Norheim,noNOR,DF,Bryne,28-064,1997,6,1,168,1.9,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+217,Amin Nouri,noNOR,DF,KFUM Oslo,35-156,1990,8,6,530,5.9,0,1,1,0,0,0,0,0,0,0.17,0.17,0,0.17,Matches
+218,Johannes Nunez Godoy,noNOR,"FW,MF",KFUM Oslo,28-183,1996,5,4,275,3.1,2,1,3,2,0,0,0,0,0.65,0.33,0.98,0.65,0.98,Matches
+219,Franklin Nyenetue,noNOR,FW,Kristiansund,24-211,2000,2,0,25,0.3,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+220,Troy Nyhammer,noNOR,MF,Haugesund,18-300,2006,5,3,253,2.8,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches
+221,Sverre Nypan,noNOR,"MF,FW",Rosenborg,18-178,2006,9,7,652,7.2,1,0,1,1,0,0,0,0,0.14,0,0.14,0.14,0.14,Matches
+222,Obilor Okeke,noNOR,FW,KFUM Oslo,22-327,2002,4,2,249,2.8,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches
+223,Aaron Olsen,noNOR,DF,Vålerenga,24-026,2001,8,6,530,5.9,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches
+224,Marius Olsen,noNOR,DF,Kristiansund,24-032,2001,10,10,816,9.1,0,0,0,0,0,0,0,1,0,0,0,0,0,Matches
+225,William Osnes-Ringen,noNOR,MF,HamKam,18-214,2006,6,2,269,3,0,1,1,0,0,0,0,0,0,0.33,0.33,0,0.33,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,MP,Starts,Min,90s,Gls,Ast,G+A,G-PK,PK,PKatt,CrdY,CrdR,Gls,Ast,G+A,G-PK,G+A-PK,Matches
+226,Filip Ottosson,seSWE,MF,Sandefjord,28-276,1996,9,9,810,9,0,1,1,0,0,0,1,0,0,0.11,0.11,0,0.11,Matches
+227,Martin Ove Roseth,noNOR,DF,Viking,26-340,1998,5,5,362,4,1,0,1,1,0,0,3,1,0.25,0,0.25,0.25,0.25,Matches
+228,Leonard Owusu,ghGHA,MF,Fredrikstad,28-012,1997,10,10,877,9.7,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches
+229,Yaw Paintsil,noNOR,DF,Tromsø,25-300,1999,7,1,172,1.9,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches
+230,Noah Pallas,fiFIN,DF,Vålerenga,24-126,2001,3,1,137,1.5,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+231,Fredrik Pallesen Knudsen,noNOR,DF,Brann,28-289,1996,7,7,558,6.2,0,0,0,0,0,0,2,0,0,0,0,0,0,Matches
+232,Evangelos Patoulidis,beBEL,MF,Sandefjord,23-264,2001,9,9,764,8.5,1,2,3,1,0,0,1,0,0.12,0.24,0.35,0.12,0.35,Matches
+233,Fredrik Pedersen,noNOR,DF,Sandefjord,22-249,2002,5,2,220,2.4,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+234,Thore Pedersen,noNOR,DF,Brann,28-308,1996,10,8,601,6.7,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+235,Adrian Pereira,noNOR,DF,Rosenborg,25-288,1999,11,11,928,10.3,0,1,1,0,0,0,3,0,0,0.1,0.1,0,0.1,Matches
+236,Ismael Petcho Camara,ciCIV,MF,Haugesund,18-175,2006,7,2,225,2.5,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches
+237,Dan Peter Ulvestad,noNOR,DF,Kristiansund,36-072,1989,11,11,990,11,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+238,Jens Petter Hauge,noNOR,"FW,MF",Bodø/Glimt,25-246,1999,7,6,504,5.6,1,2,3,1,0,1,1,0,0.18,0.36,0.54,0.18,0.54,Matches
+239,Aksel Potur,trTUR,MF,HamKam,22-192,2002,8,3,321,3.6,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+240,Sigurd Prestmo,noNOR,MF,Tromsø,18-252,2006,2,0,12,0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+241,Lasse Qvigstad,noNOR,DF,Bryne,21-309,2003,8,7,591,6.6,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+242,Luka Racic,dkDEN,DF,Rosenborg,26-038,1999,5,2,119,1.3,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+243,Simen Rafn,noNOR,DF,Fredrikstad,33-119,1992,8,2,220,2.4,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+244,Mikkel Rakneberg,noNOR,DF,Kristiansund,23-107,2002,9,8,668,7.4,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+245,Robin Rasch,noNOR,MF,KFUM Oslo,31-156,1994,7,6,499,5.5,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches
+246,Peter Reinhardsen,noNOR,DF,Sarpsborg 08,26-055,1999,8,2,273,3,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches
+247,Jesper Reitan-Sunde,noNOR,FW,Rosenborg,19-135,2006,3,0,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+248,Lars Remmem,noNOR,MF,Brann,19-117,2006,4,0,76,0.8,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches
+249,Magnus Riisnæs,noNOR,MF,Vålerenga,20-223,2004,7,7,577,6.4,2,2,4,2,0,0,3,1,0.31,0.31,0.62,0.31,0.62,Matches
+250,Mees Rijks,nlNED,FW,Vålerenga,22-099,2003,10,0,173,1.9,0,1,1,0,0,0,1,0,0,0.52,0.52,0,0.52,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,MP,Starts,Min,90s,Gls,Ast,G+A,G-PK,PK,PKatt,CrdY,CrdR,Gls,Ast,G+A,G-PK,G+A-PK,Matches
+251,Sander Risan Mørk,noNOR,MF,Sandefjord,24-191,2000,9,7,651,7.2,1,0,1,1,0,0,2,0,0.14,0,0.14,0.14,0.14,Matches
+252,Alwande Roaldsøy,noNOR,MF,HamKam,21-006,2004,9,5,462,5.1,1,0,1,1,0,0,1,0,0.19,0,0.19,0.19,0.19,Matches
+253,Jakob Romsaas,noNOR,FW,Tromsø,21-030,2004,8,5,393,4.4,1,2,3,1,0,0,2,0,0.23,0.46,0.69,0.23,0.69,Matches
+254,Ulrik Saltnes,noNOR,MF,Bodø/Glimt,32-217,1992,8,8,658,7.3,5,1,6,5,0,0,0,0,0.68,0.14,0.82,0.68,0.82,Matches
+255,Martin Samuelsen,noNOR,MF,Haugesund,28-059,1997,6,1,142,1.6,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+256,Sverre Sandal,noNOR,MF,KFUM Oslo,22-009,2003,7,6,498,5.5,0,1,1,0,0,0,2,1,0,0.18,0.18,0,0.18,Matches
+257,Marcus Sandberg,seSWE,GK,HamKam,34-220,1990,6,6,540,6,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+258,Niklas Sandberg,noNOR,DF,Sarpsborg 08,30-028,1995,3,1,115,1.3,0,2,2,0,0,0,1,0,0,1.57,1.57,0,1.57,Matches
+259,Mads Sande,noNOR,"FW,MF",Brann,27-085,1998,9,6,437,4.9,3,0,3,3,0,0,1,0,0.62,0,0.62,0.62,0.62,Matches
+260,Alagie Sanyang,gmGAM,MF,Sarpsborg 08,28-277,1996,7,2,251,2.8,0,1,1,0,0,0,1,0,0,0.36,0.36,0,0.36,Matches
+261,Eirik Saunes,noNOR,"MF,DF",Bryne,26-266,1998,7,7,607,6.7,1,0,1,1,0,0,1,0,0.15,0,0.15,0.15,0.15,Matches
+262,Emil Schlichting,dkDEN,"MF,FW",Haugesund,20-223,2004,10,6,583,6.5,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches
+263,Daniel Schneider,noNOR,DF,KFUM Oslo,23-106,2002,6,3,342,3.8,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+264,Alfred Scriven,keKEN,MF,Bryne,27-140,1998,9,9,810,9,2,2,4,2,0,0,2,0,0.22,0.22,0.44,0.22,0.44,Matches
+265,Ole Selnæs,noNOR,"MF,DF",Rosenborg,30-343,1994,9,6,555,6.2,0,0,0,0,0,0,2,0,0,0,0,0,0,Matches
+266,Niclas Semmen,noNOR,FW,KFUM Oslo,22-214,2002,7,0,114,1.3,1,0,1,1,0,0,1,0,0.79,0,0.79,0.79,0.79,Matches
+267,Ismaël Seoné,bfBFA,FW,Haugesund,20-050,2005,7,2,245,2.7,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+268,Japhet Sery,dkDEN,DF,Brann,25-066,2000,10,7,681,7.6,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches
+269,Rocco Shein,eeEST,MF,Fredrikstad,21-336,2003,9,1,282,3.1,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches
+270,Aimar Sher,iqIRQ,MF,Sarpsborg 08,22-177,2002,9,9,809,9,0,1,1,0,0,0,0,0,0,0.11,0.11,0,0.11,Matches
+271,Samuel Silalahi,noNOR,FW,Strømsgodset,20-013,2005,5,0,29,0.3,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+272,Gard Simenstad,noNOR,MF,HamKam,26-064,1999,8,6,449,5,0,0,0,0,0,0,2,0,0,0,0,0,0,Matches
+273,Håkon Sjåtil,noNOR,DF,Vålerenga,22-170,2002,9,7,657,7.3,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+274,Magnus Sjøeng,noNOR,GK,Vålerenga,23-084,2002,9,9,810,9,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+275,Fredrik Sjølstad,noNOR,DF,HamKam,31-078,1994,5,5,360,4,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,MP,Starts,Min,90s,Gls,Ast,G+A,G-PK,PK,PKatt,CrdY,CrdR,Gls,Ast,G+A,G-PK,G+A-PK,Matches
+276,Fredrik Sjøvold,noNOR,DF,Bodø/Glimt,21-302,2003,8,8,719,8,1,1,2,1,0,0,1,0,0.13,0.13,0.25,0.13,0.25,Matches
+277,Brage Skaret,noNOR,DF,Fredrikstad,23-048,2002,5,2,193,2.1,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+278,Vetle Skjærvik,noNOR,DF,Tromsø,24-273,2000,9,9,810,9,2,1,3,2,0,0,4,0,0.22,0.11,0.33,0.22,0.33,Matches
+279,Henrik Skogvold,noNOR,FW,Fredrikstad,20-336,2004,10,8,626,7,1,0,1,1,0,1,0,0,0.14,0,0.14,0.14,0.14,Matches
+280,Nikolai Skuseth,noNOR,DF,Sarpsborg 08,21-028,2004,2,0,10,0.1,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+281,Zinedin Smajlovic,seSWE,DF,Sandefjord,21-177,2003,6,5,474,5.3,1,0,1,1,0,0,3,1,0.19,0,0.19,0.19,0.19,Matches
+282,Vegard Solheim,noNOR,"DF,MF",Haugesund,20-309,2004,7,6,453,5,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+283,Joachim Soltvedt,noNOR,DF,Brann,29-279,1995,11,9,814,9,0,2,2,0,0,0,3,0,0,0.22,0.22,0,0.22,Matches
+284,Jacob Steffensen,dkDEN,DF,Bryne,23-097,2002,6,6,485,5.4,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+285,Halldor Stenevik,noNOR,"DF,MF",Molde,25-133,2000,10,7,656,7.3,0,0,0,0,0,0,3,0,0,0,0,0,0,Matches
+286,Herman Stengel,noNOR,MF,Strømsgodset,29-293,1995,9,9,773,8.6,1,1,2,1,0,0,0,0,0.12,0.12,0.23,0.12,0.23,Matches
+287,Jacob Storevik,noNOR,GK,Vålerenga,28-321,1996,1,1,90,1,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+288,Snorre Strand Nilsen,noNOR,DF,HamKam,28-152,1997,8,8,675,7.5,1,1,2,1,0,0,2,0,0.13,0.13,0.27,0.13,0.27,Matches
+289,Petter Strand,noNOR,"MF,FW",Vålerenga,30-295,1994,8,4,363,4,0,1,1,0,0,0,1,0,0,0.25,0.25,0,0.25,Matches
+290,Nicklas Strunck,dkDEN,MF,Bryne,25-302,1999,9,9,760,8.4,2,1,3,2,0,0,3,0,0.24,0.12,0.36,0.24,0.36,Matches
+291,Kristian Strømland Lien,noNOR,FW,HamKam,23-258,2001,9,7,571,6.3,2,1,3,2,0,0,2,0,0.32,0.16,0.47,0.32,0.47,Matches
+292,Sander Svendsen,noNOR,MF,Viking,27-313,1997,12,12,780,8.7,1,2,3,1,0,0,0,0,0.12,0.23,0.35,0.12,0.35,Matches
+293,Adrian Sæther,noNOR,GK,Kristiansund,24-014,2001,9,8,786,8.7,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches
+294,Elias Sørensen,dkDEN,MF,Vålerenga,25-270,1999,10,8,586,6.5,3,1,4,3,0,0,3,0,0.46,0.15,0.61,0.46,0.61,Matches
+295,Sondre Sørli,noNOR,FW,Bodø/Glimt,29-228,1995,6,1,196,2.2,0,1,1,0,0,0,0,0,0,0.46,0.46,0,0.46,Matches
+296,Sondre Sørløkk,noNOR,FW,Fredrikstad,28-038,1997,9,3,391,4.3,3,2,5,3,0,0,0,0,0.69,0.46,1.15,0.69,1.15,Matches
+297,Bent Sørmo,noNOR,DF,Strømsgodset,28-266,1996,7,3,371,4.1,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches
+298,Jesper Tåje,noNOR,DF,Strømsgodset,27-233,1997,6,6,540,6,1,0,1,1,0,0,1,0,0.17,0,0.17,0.17,0.17,Matches
+299,Harald Tangen,noNOR,MF,Sarpsborg 08,24-163,2001,9,9,721,8,2,0,2,2,0,0,1,0,0.25,0,0.25,0.25,0.25,Matches
+300,Sander Tangvik,noNOR,GK,Rosenborg,22-198,2002,11,11,990,11,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,MP,Starts,Min,90s,Gls,Ast,G+A,G-PK,PK,PKatt,CrdY,CrdR,Gls,Ast,G+A,G-PK,G+A-PK,Matches
+301,Franklin Tebo,ngNGA,DF,Sarpsborg 08,25-151,2000,9,9,810,9,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches
+302,Jonas Therkelsen,noNOR,MF,Strømsgodset,22-041,2003,7,7,545,6.1,2,0,2,2,0,0,1,0,0.33,0,0.33,0.33,0.33,Matches
+303,Mats Thornes,noNOR,FW,Bryne,22-294,2002,3,0,46,0.5,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+304,Stian Thorstensen,noNOR,MF,Vålerenga,19-030,2006,4,0,64,0.7,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+305,Filip Thorvaldsen,noNOR,MF,Vålerenga,19-061,2006,4,2,241,2.7,1,0,1,1,0,0,1,0,0.37,0,0.37,0.37,0.37,Matches
+306,Darrell Tibell,seSWE,FW,Sandefjord,23-115,2002,6,2,180,2,1,1,2,1,0,0,1,0,0.5,0.5,1,0.5,1,Matches
+307,Fredrik Tobias Berglie,noNOR,DF,KFUM Oslo,28-169,1996,6,5,436,4.8,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+308,Logi Tómasson,isISL,"MF,DF",Strømsgodset,24-275,2000,9,6,511,5.7,1,0,1,1,0,0,2,0,0.18,0,0.18,0.18,0.18,Matches
+309,Jonas Torsvik,noNOR,FW,Brann,20-022,2005,4,0,74,0.8,0,1,1,0,0,0,0,0,0,1.22,1.22,0,1.22,Matches
+310,Amidou Traoré,ciCIV,MF,Haugesund,20-337,2004,5,0,97,1.1,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+311,Zlatko Tripić,noNOR,MF,Viking,32-195,1992,11,9,784,8.7,8,5,13,2,6,6,3,0,0.92,0.57,1.49,0.23,0.8,Matches
+312,Kevin Tshiembe,dkDEN,DF,Vålerenga,28-076,1997,7,6,553,6.1,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches
+313,David Tufekcic,noNOR,"MF,FW",Kristiansund,21-144,2004,11,11,940,10.4,3,0,3,1,2,2,2,0,0.29,0,0.29,0.1,0.1,Matches
+314,Jon-Helge Tveita,noNOR,MF,Bryne,33-139,1992,4,1,79,0.9,0,1,1,0,0,0,1,0,0,1.14,1.14,0,1.14,Matches
+315,Mathias Tønnessen,noNOR,DF,KFUM Oslo,21-205,2003,9,9,768,8.5,0,0,0,0,0,0,2,0,0,0,0,0,0,Matches
+316,Jošt Urbančič,siSVN,DF,Viking,24-064,2001,7,5,470,5.2,1,0,1,1,0,0,1,0,0.19,0,0.19,0.19,0.19,Matches
+317,Santeri Väänänen,fiFIN,"MF,DF",Rosenborg,23-165,2002,8,5,465,5.2,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+318,Isak Vådebu,noNOR,MF,Tromsø,21-309,2003,1,0,21,0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+319,Gustav Valsvik,noNOR,DF,Strømsgodset,32-020,1993,9,9,810,9,0,1,1,0,0,0,1,0,0,0.11,0.11,0,0.11,Matches
+320,Mike Vestergård,dkDEN,MF,Sarpsborg 08,27-208,1997,5,0,29,0.3,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+321,Viljar Vevatne,noNOR,DF,Viking,30-190,1994,5,2,205,2.3,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+322,Lars-Christopher Vilsvik,noNOR,DF,Strømsgodset,36-240,1988,7,6,492,5.5,0,1,1,0,0,0,0,0,0,0.18,0.18,0,0.18,Matches
+323,Kasper Waarst Høgh,dkDEN,"FW,MF",Bodø/Glimt,24-191,2000,8,6,500,5.6,7,2,9,6,1,1,0,0,1.26,0.36,1.62,1.08,1.44,Matches
+324,Sivert Westerlund,noNOR,DF,Strømsgodset,26-003,1999,4,1,126,1.4,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+325,Amund Wichne,noNOR,GK,Haugesund,28-034,1997,9,9,810,9,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+Rk,Player,Nation,Pos,Squad,Age,Born,MP,Starts,Min,90s,Gls,Ast,G+A,G-PK,PK,PKatt,CrdY,CrdR,Gls,Ast,G+A,G-PK,G+A-PK,Matches
+326,Eirik Wichne,noNOR,DF,Sarpsborg 08,28-034,1997,9,9,776,8.6,0,1,1,0,0,0,0,0,0,0.12,0.12,0,0.12,Matches
+327,Maxwell Woledzi,ghGHA,DF,Fredrikstad,23-348,2001,10,10,882,9.8,0,0,0,0,0,0,2,0,0,0,0,0,0,Matches
+328,Magnus Wolff Eikrem,noNOR,"FW,MF",Molde,34-311,1990,9,8,615,6.8,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+329,Ruben Yttergård Jenssen,noNOR,MF,Tromsø,37-042,1988,9,9,810,9,1,1,2,1,0,0,0,0,0.11,0.11,0.22,0.11,0.22,Matches
+330,Ulrik Yttergård Jenssen,noNOR,DF,Rosenborg,28-333,1996,10,7,613,6.8,1,2,3,1,0,0,2,0,0.15,0.29,0.44,0.15,0.44,Matches
+331,Moustafa Zeidan,psPLE,MF,Rosenborg,27-008,1998,8,4,355,3.9,1,1,2,1,0,0,0,0,0.25,0.25,0.51,0.25,0.51,Matches
+332,Emil Ødegaard,noNOR,GK,KFUM Oslo,26-047,1999,9,9,810,9,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+333,Magnar Ødegaard,noNOR,DF,Sarpsborg 08,32-035,1993,4,0,28,0.3,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+334,Arne Ødegård,noNOR,MF,HamKam,21-131,2004,1,1,62,0.7,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+335,Niklas Ødegård,noNOR,MF,Kristiansund,21-078,2004,10,2,334,3.7,0,1,1,0,0,0,0,0,0,0.27,0.27,0,0.27,Matches
+336,Oskar Øhlenschlæger,dkDEN,"MF,FW",Fredrikstad,21-057,2004,10,9,728,8.1,2,0,2,2,0,0,2,0,0.25,0,0.25,0.25,0.25,Matches
+337,Sondre Ørjasæter,noNOR,MF,Sarpsborg 08,21-199,2003,7,7,622,6.9,1,2,3,1,0,0,0,0,0.14,0.29,0.43,0.14,0.43,Matches
+338,Arild Østbø,noNOR,GK,Viking,34-057,1991,3,3,270,3,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+339,Casper Øyvann,noNOR,DF,Molde,25-190,1999,1,0,18,0.2,0,0,0,0,0,0,0,0,0,0,0,0,0,Matches
+340,Ísak Þorvaldsson,isISL,FW,Rosenborg,24-045,2001,4,0,47,0.5,0,0,0,0,0,0,1,0,0,0,0,0,0,Matches
